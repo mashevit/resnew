@@ -1,0 +1,285 @@
+Current working directory: /home/mash/Desktop/work/research/tst2/pyproj
+here
+in cut = outname = ../output_Habitat/out1 input = ../output_Habitat/raw_out startln = 1
+/home/mash/Desktop/work/research/tst2/pyproj/mainer
+Current working directory:11 /home/mash/Desktop/work/research/tst2/pyproj/mainer
+Elapsed time 1: 0.00 seconds
+Elapsed time 2: 0.00 seconds
+Elapsed time 3: 0.00 seconds
+tmp = 1. Carnivores
+2. Herbivores
+3. Omnivores
+4. Insectivores
+5. Piscivores
+6. Frugivores
+7. Nectarivores
+8. Detritivores
+9. Scavengers
+10. Filter feeders
+Elapsed time 4: 1.99 seconds
+tmp = aardvark,Carnivores
+antelope,Herbivores
+bass,Piscivores
+bear,Carnivores
+boar,Omnivores
+buffalo,Herbivores
+calf,Herbivores
+carp,Piscivores
+catfish,Piscivores
+cavy,Herbivores
+cheetah,Carnivores
+chicken,Omnivores
+chub,Piscivores
+clam,Filter feeders
+crab,Scavengers
+crayfish,Detritivores
+crow,Scavengers
+deer,Herbivores
+dogfish,Piscivores
+dolphin,Piscivores
+dove,Frugivores
+duck,Omnivores
+elephant,Herbivores
+flamingo,Nectarivores
+flea,Insectivores
+frog,Insectivores
+frog,Insectivores
+fruitbat,Frugivores
+giraffe,Herbivores
+girl,Herbivores
+gnat,Insectivores
+goat,Herbivores
+gorilla,Herbivores
+gull,Scavengers
+haddock,Piscivores
+hamster,Omnivores
+hare,Herbivores
+hawk,Carnivores
+herring,Piscivores
+honeybee,Nectarivores
+housefly,Detritivores
+kiwi,Frugivores
+ladybird,Insectivores
+lark,Frugivores
+leopard,Carnivores
+lion,Carnivores
+lobster,Scavengers
+lynx,Carnivores
+mink,Carnivores
+mole,Insectivores
+mongoose,Carnivores
+moth,Insectivores
+newt,Insectivores
+octopus,Filter feeders
+opossum,Scavengers
+oryx,Herbivores
+ostrich,Herbivores
+parakeet,Frugivores
+penguin,Piscivores
+pheasant,Frugivores
+pike,Piscivores
+piranha,Piscivores
+pitviper,Carnivores
+platypus,Piscivores
+polecat,Carnivores
+pony,Herbivores
+porpoise,Piscivores
+puma,Carnivores
+pussycat,Carnivores
+raccoon,Scavengers
+reindeer,Herbivores
+rhea,Herbivores
+scorpion,Insectivores
+seahorse,Filter feeders
+seal,Piscivores
+sealion,Piscivores
+seasnake,Piscivores
+seawasp,Filter feeders
+skimmer,Filter feeders
+skua,Piscivores
+slowworm,Insectivores
+slug,Detritivores
+sole,Piscivores
+sparrow,Frugivores
+squirrel,Frugivores
+starfish,Filter feeders
+stingray,Piscivores
+swan,Herbivores
+termite,Detritivores
+toad,Insectivores
+tortoise,Herbivores
+tuatara,Insectivores
+tuna,Piscivores
+vampire,Carnivores
+vole,Herbivores
+vulture,Scavengers
+wallaby,Herbivores
+wasp,Insectivores
+wolf,Carnivores
+worm,Detritivores
+wren,Insectivores
+Elapsed time 5: 13.36 seconds
+tmp = Carnivores
+Herbivores
+Piscivores
+Omnivores
+Filter feeders
+Scavengers
+Detritivores
+Frugivores
+Insectivores
+Nectarivores
+Elapsed time 6: 14.69 seconds
+tmp = 1. Carnivores - 1
+2. Herbivores - 2
+3. Piscivores - 3
+4. Omnivores - 4
+5. Filter feeders - 5
+6. Scavengers - 6
+7. Detritivores - 7
+8. Frugivores - 8
+9. Insectivores - 9
+10. Nectarivores - 10
+Elapsed time 7: 16.75 seconds
+tmp = aardvark,1
+antelope,2
+bass,3
+bear,1
+boar,4
+buffalo,2
+calf,2
+carp,3
+catfish,3
+cavy,2
+cheetah,1
+chicken,4
+chub,3
+clam,5
+crab,6
+crayfish,7
+crow,6
+deer,2
+dogfish,3
+dolphin,3
+dove,8
+duck,4
+elephant,2
+flamingo,10
+flea,9
+frog,9
+frog,9
+fruitbat,8
+giraffe,2
+girl,2
+gnat,9
+goat,2
+gorilla,2
+gull,6
+haddock,3
+hamster,4
+hare,2
+hawk,1
+herring,3
+honeybee,10
+housefly,7
+kiwi,8
+ladybird,9
+lark,8
+leopard,1
+lion,1
+lobster,6
+lynx,1
+mink,1
+mole,9
+mongoose,1
+moth,9
+newt,9
+octopus,5
+opossum,6
+oryx,2
+ostrich,2
+parakeet,8
+penguin,3
+pheasant,8
+pike,3
+piranha,3
+pitviper,1
+platypus,3
+polecat,1
+pony,2
+porpoise,3
+puma,1
+pussycat,1
+raccoon,6
+reindeer,2
+rhea,2
+scorpion,9
+seahorse,5
+seal,3
+sealion,3
+seasnake,3
+seawasp,5
+skimmer,5
+skua,3
+slowworm,9
+slug,7
+sole,3
+sparrow,8
+squirrel,8
+starfish,5
+stingray,3
+swan,2
+termite,7
+toad,9
+tortoise,2
+tuatara,9
+tuna,3
+vampire,1
+vole,2
+vulture,6
+wallaby,2
+wasp,9
+wolf,1
+worm,7
+wren,9
+Elapsed time 8: 24.01 seconds
+Directory '../output_diet/' already exists.
+here
+in cut = outname = ../output_diet/out1 input = ../output_diet/raw_out startln = 1
+new_origin.csv
+Directory '../output_diet/' already exists.
+new_origin.csv
+in cut = outname = ../output_diet/out_cut_2_0 input = ../output_diet/new_origin.csv startln = 27
+in cut = outname = ../output_diet/out_cut_2_1 input = ../output_diet/out1 startln = 26
+Directory '../output_diet/' already exists.
+Appended contents of '../output_diet/out2_combined' to '../output_diet/out1_combined' successfully.
+Accuracy_1: 50.00%
+/home/mash/anaconda3/envs/res/lib/python3.11/site-packages/sklearn/metrics/_classification.py:1509: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", len(result))
+/home/mash/anaconda3/envs/res/lib/python3.11/site-packages/sklearn/metrics/_classification.py:1509: UndefinedMetricWarning: Recall is ill-defined and being set to 0.0 in labels with no true samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", len(result))
+/home/mash/anaconda3/envs/res/lib/python3.11/site-packages/sklearn/metrics/_classification.py:1509: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", len(result))
+/home/mash/anaconda3/envs/res/lib/python3.11/site-packages/sklearn/metrics/_classification.py:1509: UndefinedMetricWarning: Recall is ill-defined and being set to 0.0 in labels with no true samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", len(result))
+/home/mash/anaconda3/envs/res/lib/python3.11/site-packages/sklearn/metrics/_classification.py:1509: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", len(result))
+/home/mash/anaconda3/envs/res/lib/python3.11/site-packages/sklearn/metrics/_classification.py:1509: UndefinedMetricWarning: Recall is ill-defined and being set to 0.0 in labels with no true samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", len(result))
+
+Report:
+              precision    recall  f1-score   support
+
+           1       0.56      0.82      0.67        11
+           2       0.33      0.25      0.29         4
+           3       0.00      0.00      0.00         1
+           4       0.00      0.00      0.00         2
+           5       0.00      0.00      0.00         1
+           6       0.00      0.00      0.00         0
+           7       0.00      0.00      0.00         1
+
+    accuracy                           0.50        20
+   macro avg       0.13      0.15      0.14        20
+weighted avg       0.38      0.50      0.42        20
+
+Elapsed time 9: 24.04 seconds

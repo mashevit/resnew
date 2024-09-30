@@ -1,0 +1,54 @@
++----+----------+---------+
+| No.|  Animal  | Habitat |
++----+----------+---------+
+|  1 | Aardvark |    8    |
+|  2 | Antelope |    8    |
+|  3 |   Bass   |    5    |
+|  4 |   Bear   |    7    |
+|  5 |   Boar   |    7    |
+|  6 |  Buffalo |    8    |
+|  7 |   Calf   |    8    |
+|  8 |   Carp   |    6    |
+|  9 | Catfish  |    6    |
+| 10 |   Cavy   |    8    |
+| 11 | Cheetah  |    8    |
+| 12 | Chicken  |    9    |
+| 13 |   Chub   |    6    |
+| 14 |   Clam   |    5    |
+| 15 |   Crab   |    5    |
+| 16 | Crayfish |    6    |
+| 17 |   Crow   |    7    |
+| 18 |   Deer   |    7    |
+| 19 | Dogfish  |    5    |
+| 20 | Dolphin  |    5    |
+| 21 |   Dove   |    9    |
+| 22 |   Duck   |    6    |
+| 23 | Elephant |    8    |
+| 24 | Flamingo |    8    |
+| 25 |   Flea   |    9    |
+| 26 |   Frog   |    6    |
+| 27 |   Frog   |    6    |
+| 28 | Fruitbat |    8    |
+| 29 | Giraffe  |    8    |
+| 30 |   Girl   |    9    |
+| 31 |   Gnat   |    8    |
+| 32 |   Goat   |    8    |
+| 33 | Gorilla  |    7    |
+| 34 |   Gull   |    5    |
+| 35 | Haddock  |    5    |
+| 36 | Hamster  |    9    |
+| 37 |   Hare   |    8    |
+| 38 |   Hawk   |    8    |
+| 39 | Herring  |    5    |
+| 40 | Honeybee |    8    |
+| 41 | Housefly |    9    |
+| 42 |   Kiwi   |    7    |
+| 43 | Ladybird |    8    |
+| 44 |   Lark   |    8    |
+| 45 | Leopard  |    8    |
+| 46 |   Lion   |    7    |
+| 47 |  Lobster |    5    |
+| 48 |   Lynx   |    7    |
+| 49 |   Mink   |    8    |
+| 50 |   Mole   |    7    |
++----+----------+---------+

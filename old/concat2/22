@@ -1,0 +1,55 @@
++----+-----------+---------+
+| No.|  Animal   | Habitat |
++----+-----------+---------+
+|  1 | Mongoose  |    8    |
+|  2 |   Moth    |    7    |
+|  3 |   Newt    |    6    |
+|  4 |  Octopus  |    5    |
+|  5 |  Opossum  |    8    |
+|  6 |   Oryx    |    7    |
+|  7 |  Ostrich  |    8    |
+|  8 | Parakeet  |    9    |
+|  9 |  Penguin  |    5    |
+| 10 | Pheasant  |    8    |
+| 11 |   Pike    |    6    |
+| 12 |  Piranha  |    6    |
+| 13 | Pitviper  |    2    |
+| 14 | Platypus  |    6    |
+| 15 |  Polecat  |    7    |
+| 16 |   Pony    |    8    |
+| 17 | Porpoise  |    5    |
+| 18 |   Puma    |    7    |
+| 19 | Pussycat  |    8    |
+| 20 | Raccoon   |    7    |
+| 21 | Reindeer  |    3    |
+| 22 |   Rhea    |    8    |
+| 23 | Scorpion  |    2    |
+| 24 | Seahorse  |    5    |
+| 25 |   Seal    |    5    |
+| 26 |  Sealion  |    5    |
+| 27 | Seasnake  |    5    |
+| 28 |  Seawasp  |    5    |
+| 29 |  Skimmer  |    5    |
+| 30 |   Skua    |    5    |
+| 31 | Slowworm  |    7    |
+| 32 |   Slug    |    7    |
+| 33 |   Sole    |    5    |
+| 34 |  Sparrow  |    8    |
+| 35 | Squirrel  |    7    |
+| 36 | Starfish  |    5    |
+| 37 | Stingray  |    5    |
+| 38 |   Swan    |    8    |
+| 39 |  Termite  |    9    |
+| 40 |   Toad    |    6    |
+| 41 | Tortoise  |    6    |
+| 42 |  Tuatara  |    5    |
+| 43 |   Tuna    |    5    |
+| 44 |  Vampire  |    9    |
+| 45 |   Vole    |    7    |
+| 46 |  Vulture  |    7    |
+| 47 |  Wallaby  |    8    |
+| 48 |   Wasp    |    9    |
+| 49 |   Wolf    |    7    |
+| 50 |   Worm    |    6    |
+| 51 |   Wren    |    8    |
++----+-----------+---------+

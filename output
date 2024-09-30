@@ -1,0 +1,1556 @@
+prompt = I need top predation feature categories for list aardvark, antelope, bass, bear, boar, buffalo, calf, carp, catfish, cavy, cheetah, chicken, chub, clam, crab, crayfish, crow, deer, dogfish, dolphin, dove, duck, elephant, flamingo, flea, frog, frog, fruitbat, giraffe, girl, gnat, goat, gorilla, gull, haddock, hamster, hare, hawk, herring, honeybee, housefly, kiwi, ladybird, lark, leopard, lion, lobster, lynx, mink, mole, mongoose, moth, newt, octopus, opossum, oryx, ostrich, parakeet, penguin, pheasant, pike, piranha, pitviper, platypus, polecat, pony, porpoise, puma, pussycat, raccoon, reindeer, rhea, scorpion, seahorse, seal, sealion, seasnake, seawasp, skimmer, skua, slowworm, slug, sole, sparrow, squirrel, starfish, stingray, swan, termite, toad, tortoise, tuatara, tuna, vampire, vole, vulture, wallaby, wasp, wolf, worm, wren. strictly predation category names or values
+tmp = 1. Mammals
+2. Birds
+3. Fish
+4. Reptiles
+5. Insects
+6. Arachnids
+7. Crustaceans
+8. Mollusks
+9. Amphibians
+10. Mammals (Marine)
+Elapsed time 118: 441.94 seconds
+prompt = output pairs of values in csv format from aardvark, antelope, bass, bear, boar, buffalo, calf, carp, catfish, cavy, cheetah, chicken, chub, clam, crab, crayfish, crow, deer, dogfish, dolphin, dove, duck, elephant, flamingo, flea, frog, frog, fruitbat, giraffe, girl, gnat, goat, gorilla, gull, haddock, hamster, hare, hawk, herring, honeybee, housefly, kiwi, ladybird, lark, leopard, lion, lobster, lynx, mink, mole, mongoose, moth, newt, octopus, opossum, oryx, ostrich, parakeet, penguin, pheasant, pike, piranha, pitviper, platypus, polecat, pony, porpoise, puma, pussycat, raccoon, reindeer, rhea, scorpion, seahorse, seal, sealion, seasnake, seawasp, skimmer, skua, slowworm, slug, sole, sparrow, squirrel, starfish, stingray, swan, termite, toad, tortoise, tuatara, tuna, vampire, vole, vulture, wallaby, wasp, wolf, worm, wren list called here mainList. and matching category from 1. Mammals
+2. Birds
+3. Fish
+4. Reptiles
+5. Insects
+6. Arachnids
+7. Crustaceans
+8. Mollusks
+9. Amphibians
+10. Mammals (Marine) for all mainList values. in order of mainList. output single most matching category with single each value in mainList
+tmp = aardvark, Mammals
+antelope, Mammals
+bass, Fish
+bear, Mammals
+boar, Mammals
+buffalo, Mammals
+calf, Mammals
+carp, Fish
+catfish, Fish
+cavy, Mammals
+cheetah, Mammals
+chicken, Birds
+chub, Fish
+clam, Mollusks
+crab, Crustaceans
+crayfish, Crustaceans
+crow, Birds
+deer, Mammals
+dogfish, Fish
+dolphin, Mammals (Marine)
+dove, Birds
+duck, Birds
+elephant, Mammals
+flamingo, Birds
+flea, Insects
+frog, Amphibians
+frog, Amphibians
+fruitbat, Mammals
+giraffe, Mammals
+girl, Mammals
+gnat, Insects
+goat, Mammals
+gorilla, Mammals
+gull, Birds
+haddock, Fish
+hamster, Mammals
+hare, Mammals
+hawk, Birds
+herring, Fish
+honeybee, Insects
+housefly, Insects
+kiwi, Birds
+ladybird, Insects
+lark, Birds
+leopard, Mammals
+lion, Mammals
+lobster, Crustaceans
+lynx, Mammals
+mink, Mammals
+mole, Mammals
+mongoose, Mammals
+moth, Insects
+newt, Amphibians
+octopus, Mollusks
+opossum, Mammals
+oryx, Mammals
+ostrich, Birds
+parakeet, Birds
+penguin, Birds
+pheasant, Birds
+pike, Fish
+piranha, Fish
+pitviper, Reptiles
+platypus, Mammals
+polecat, Mammals
+pony, Mammals
+porpoise, Mammals (Marine)
+puma, Mammals
+pussycat, Mammals
+raccoon, Mammals
+reindeer, Mammals
+rhea, Birds
+scorpion, Arachnids
+seahorse, Fish
+seal, Mammals (Marine)
+sealion, Mammals (Marine)
+seasnake, Reptiles
+seawasp, Insects
+skimmer, Birds
+skua, Birds
+slowworm, Reptiles
+slug, Mollusks
+sole, Fish
+sparrow, Birds
+squirrel, Mammals
+starfish, Mollusks
+stingray, Fish
+swan, Birds
+termite, Insects
+toad, Amphibians
+tortoise, Reptiles
+tuatara, Reptiles
+tuna, Fish
+vampire, Mammals
+vole, Mammals
+vulture, Birds
+wallaby, Mammals
+wasp, Insects
+wolf, Mammals
+worm, Insects
+wren, Birds
+Elapsed time 119: 451.24 seconds
+prompt = extract and output only predation names from following text : extract predation categories from following text aardvark, Mammals
+antelope, Mammals
+bass, Fish
+bear, Mammals
+boar, Mammals
+buffalo, Mammals
+calf, Mammals
+carp, Fish
+catfish, Fish
+cavy, Mammals
+cheetah, Mammals
+chicken, Birds
+chub, Fish
+clam, Mollusks
+crab, Crustaceans
+crayfish, Crustaceans
+crow, Birds
+deer, Mammals
+dogfish, Fish
+dolphin, Mammals (Marine)
+dove, Birds
+duck, Birds
+elephant, Mammals
+flamingo, Birds
+flea, Insects
+frog, Amphibians
+frog, Amphibians
+fruitbat, Mammals
+giraffe, Mammals
+girl, Mammals
+gnat, Insects
+goat, Mammals
+gorilla, Mammals
+gull, Birds
+haddock, Fish
+hamster, Mammals
+hare, Mammals
+hawk, Birds
+herring, Fish
+honeybee, Insects
+housefly, Insects
+kiwi, Birds
+ladybird, Insects
+lark, Birds
+leopard, Mammals
+lion, Mammals
+lobster, Crustaceans
+lynx, Mammals
+mink, Mammals
+mole, Mammals
+mongoose, Mammals
+moth, Insects
+newt, Amphibians
+octopus, Mollusks
+opossum, Mammals
+oryx, Mammals
+ostrich, Birds
+parakeet, Birds
+penguin, Birds
+pheasant, Birds
+pike, Fish
+piranha, Fish
+pitviper, Reptiles
+platypus, Mammals
+polecat, Mammals
+pony, Mammals
+porpoise, Mammals (Marine)
+puma, Mammals
+pussycat, Mammals
+raccoon, Mammals
+reindeer, Mammals
+rhea, Birds
+scorpion, Arachnids
+seahorse, Fish
+seal, Mammals (Marine)
+sealion, Mammals (Marine)
+seasnake, Reptiles
+seawasp, Insects
+skimmer, Birds
+skua, Birds
+slowworm, Reptiles
+slug, Mollusks
+sole, Fish
+sparrow, Birds
+squirrel, Mammals
+starfish, Mollusks
+stingray, Fish
+swan, Birds
+termite, Insects
+toad, Amphibians
+tortoise, Reptiles
+tuatara, Reptiles
+tuna, Fish
+vampire, Mammals
+vole, Mammals
+vulture, Birds
+wallaby, Mammals
+wasp, Insects
+wolf, Mammals
+worm, Insects
+wren, Birds
+tmp = Mammals, Mammals, Fish, Mammals, Mammals, Mammals, Mammals, Fish, Fish, Mammals, Mammals, Mammals, Birds, Fish, Mollusks, Crustaceans, Crustaceans, Birds, Mammals, Fish, Mammals (Marine), Birds, Birds, Mammals, Birds, Insects, Amphibians, Amphibians, Mammals, Mammals, Mammals, Birds, Fish, Mammals, Mammals, Birds, Fish, Insects, Insects, Birds, Insects, Birds, Mammals, Mammals, Mammals, Mammals, Mammals, Insects, Amphibians, Mollusks, Mammals, Mammals, Birds, Arachnids, Fish, Mammals (Marine), Mammals (Marine), Reptiles, Insects, Birds, Birds, Reptiles, Mollusks, Fish, Birds, Insects, Amphibians, Reptiles, Reptiles, Fish, Mammals, Mammals, Birds, Mammals, Insects, Mammals, Insects, Mammals, Insects, Birds
+Elapsed time 120: 454.89 seconds
+prompt = give categorical numerical numbers to the following predation feature  Mammals, Mammals, Fish, Mammals, Mammals, Mammals, Mammals, Fish, Fish, Mammals, Mammals, Mammals, Birds, Fish, Mollusks, Crustaceans, Crustaceans, Birds, Mammals, Fish, Mammals (Marine), Birds, Birds, Mammals, Birds, Insects, Amphibians, Amphibians, Mammals, Mammals, Mammals, Birds, Fish, Mammals, Mammals, Birds, Fish, Insects, Insects, Birds, Insects, Birds, Mammals, Mammals, Mammals, Mammals, Mammals, Insects, Amphibians, Mollusks, Mammals, Mammals, Birds, Arachnids, Fish, Mammals (Marine), Mammals (Marine), Reptiles, Insects, Birds, Birds, Reptiles, Mollusks, Fish, Birds, Insects, Amphibians, Reptiles, Reptiles, Fish, Mammals, Mammals, Birds, Mammals, Insects, Mammals, Insects, Mammals, Insects, Birds to add to machine learning classification task in dataset
+tmp = 1, 1, 2, 1, 1, 1, 1, 2, 2, 1, 1, 1, 3, 2, 4, 5, 5, 3, 1, 2, 1, 3, 3, 1, 3, 6, 7, 7, 3, 2, 1, 1, 3, 2, 6, 6, 3, 6, 3, 1, 7, 2, 2, 8, 6, 9, 10, 10, 8, 4, 2, 2, 8, 4, 2, 8, 8, 2, 6, 1, 3, 1, 6, 1, 6, 1, 6, 2, 3, 6, 6, 2, 6, 2, 6, 3
+Elapsed time 121: 457.97 seconds
+prompt = Change predation feature name in answer  = aardvark, Mammals
+antelope, Mammals
+bass, Fish
+bear, Mammals
+boar, Mammals
+buffalo, Mammals
+calf, Mammals
+carp, Fish
+catfish, Fish
+cavy, Mammals
+cheetah, Mammals
+chicken, Birds
+chub, Fish
+clam, Mollusks
+crab, Crustaceans
+crayfish, Crustaceans
+crow, Birds
+deer, Mammals
+dogfish, Fish
+dolphin, Mammals (Marine)
+dove, Birds
+duck, Birds
+elephant, Mammals
+flamingo, Birds
+flea, Insects
+frog, Amphibians
+frog, Amphibians
+fruitbat, Mammals
+giraffe, Mammals
+girl, Mammals
+gnat, Insects
+goat, Mammals
+gorilla, Mammals
+gull, Birds
+haddock, Fish
+hamster, Mammals
+hare, Mammals
+hawk, Birds
+herring, Fish
+honeybee, Insects
+housefly, Insects
+kiwi, Birds
+ladybird, Insects
+lark, Birds
+leopard, Mammals
+lion, Mammals
+lobster, Crustaceans
+lynx, Mammals
+mink, Mammals
+mole, Mammals
+mongoose, Mammals
+moth, Insects
+newt, Amphibians
+octopus, Mollusks
+opossum, Mammals
+oryx, Mammals
+ostrich, Birds
+parakeet, Birds
+penguin, Birds
+pheasant, Birds
+pike, Fish
+piranha, Fish
+pitviper, Reptiles
+platypus, Mammals
+polecat, Mammals
+pony, Mammals
+porpoise, Mammals (Marine)
+puma, Mammals
+pussycat, Mammals
+raccoon, Mammals
+reindeer, Mammals
+rhea, Birds
+scorpion, Arachnids
+seahorse, Fish
+seal, Mammals (Marine)
+sealion, Mammals (Marine)
+seasnake, Reptiles
+seawasp, Insects
+skimmer, Birds
+skua, Birds
+slowworm, Reptiles
+slug, Mollusks
+sole, Fish
+sparrow, Birds
+squirrel, Mammals
+starfish, Mollusks
+stingray, Fish
+swan, Birds
+termite, Insects
+toad, Amphibians
+tortoise, Reptiles
+tuatara, Reptiles
+tuna, Fish
+vampire, Mammals
+vole, Mammals
+vulture, Birds
+wallaby, Mammals
+wasp, Insects
+wolf, Mammals
+worm, Insects
+wren, Birds to number from 1, 1, 2, 1, 1, 1, 1, 2, 2, 1, 1, 1, 3, 2, 4, 5, 5, 3, 1, 2, 1, 3, 3, 1, 3, 6, 7, 7, 3, 2, 1, 1, 3, 2, 6, 6, 3, 6, 3, 1, 7, 2, 2, 8, 6, 9, 10, 10, 8, 4, 2, 2, 8, 4, 2, 8, 8, 2, 6, 1, 3, 1, 6, 1, 6, 1, 6, 2, 3, 6, 6, 2, 6, 2, 6, 3 and output first column in answer and number in csv format
+tmp = aardvark,1
+antelope,1
+bass,2
+bear,1
+boar,1
+buffalo,1
+calf,1
+carp,2
+catfish,2
+cavy,1
+cheetah,1
+chicken,3
+chub,2
+clam,4
+crab,5
+crayfish,5
+crow,3
+deer,1
+dogfish,2
+dolphin,6
+dove,7
+duck,7
+elephant,3
+flamingo,2
+flea,1
+frog,3
+frog,6
+fruitbat,6
+giraffe,3
+girl,1
+gnat,3
+goat,2
+gorilla,6
+gull,6
+haddock,2
+hamster,8
+hare,4
+hawk,2
+herring,2
+honeybee,8
+housefly,4
+kiwi,2
+ladybird,8
+lark,8
+leopard,2
+lion,6
+lobster,1
+lynx,3
+mink,1
+mole,6
+mongoose,1
+moth,6
+newt,1
+octopus,6
+opossum,2
+oryx,3
+ostrich,6
+parakeet,1
+penguin,7
+pheasant,2
+pike,2
+piranha,8
+pitviper,4
+platypus,2
+polecat,2
+pony,8
+porpoise,4
+puma,2
+pussycat,8
+raccoon,8
+reindeer,2
+rhea,6
+scorpion,6
+seahorse,2
+seal,3
+sealion,6
+seasnake,6
+seawasp,2
+skimmer,6
+skua,2
+slowworm,6
+slug,3
+sole,1
+sparrow,7
+squirrel,2
+starfish,2
+stingray,8
+swan,4
+termite,2
+toad,2
+tortoise,8
+tuatara,8
+tuna,2
+vampire,6
+vole,2
+vulture,6
+wallaby,3
+wasp,1
+wolf,6
+worm,1
+wren,6
+Elapsed time 122: 465.03 seconds
+Directory 'output_new2/predation/' already exists.
+sddssdsd = /home/ilia/Desktop/work/res_daset
+here
+in cut = outname = output_new2/predation/out1 input = output_new2/predation/raw_out startln = 1
+new_origin.csv
+a = True b = output_new2/predation/checked c = output_new2/predation/out1_combined
+hallucination in 1
+hallucination probably accuracy
+Condition met, repeating the loop on this element once more
+Elapsed time 123: 465.06 seconds
+Processing element: predation
+prompt = I need top predation feature categories for list aardvark, antelope, bass, bear, boar, buffalo, calf, carp, catfish, cavy, cheetah, chicken, chub, clam, crab, crayfish, crow, deer, dogfish, dolphin, dove, duck, elephant, flamingo, flea, frog, frog, fruitbat, giraffe, girl, gnat, goat, gorilla, gull, haddock, hamster, hare, hawk, herring, honeybee, housefly, kiwi, ladybird, lark, leopard, lion, lobster, lynx, mink, mole, mongoose, moth, newt, octopus, opossum, oryx, ostrich, parakeet, penguin, pheasant, pike, piranha, pitviper, platypus, polecat, pony, porpoise, puma, pussycat, raccoon, reindeer, rhea, scorpion, seahorse, seal, sealion, seasnake, seawasp, skimmer, skua, slowworm, slug, sole, sparrow, squirrel, starfish, stingray, swan, termite, toad, tortoise, tuatara, tuna, vampire, vole, vulture, wallaby, wasp, wolf, worm, wren. strictly predation category names or values
+tmp = 1. Mammals
+2. Birds
+3. Fish
+4. Insects
+5. Reptiles
+6. Amphibians
+7. Arthropods
+8. Mollusks
+9. Crustaceans
+10. Cephalopods
+Elapsed time 124: 466.10 seconds
+prompt = output pairs of values in csv format from aardvark, antelope, bass, bear, boar, buffalo, calf, carp, catfish, cavy, cheetah, chicken, chub, clam, crab, crayfish, crow, deer, dogfish, dolphin, dove, duck, elephant, flamingo, flea, frog, frog, fruitbat, giraffe, girl, gnat, goat, gorilla, gull, haddock, hamster, hare, hawk, herring, honeybee, housefly, kiwi, ladybird, lark, leopard, lion, lobster, lynx, mink, mole, mongoose, moth, newt, octopus, opossum, oryx, ostrich, parakeet, penguin, pheasant, pike, piranha, pitviper, platypus, polecat, pony, porpoise, puma, pussycat, raccoon, reindeer, rhea, scorpion, seahorse, seal, sealion, seasnake, seawasp, skimmer, skua, slowworm, slug, sole, sparrow, squirrel, starfish, stingray, swan, termite, toad, tortoise, tuatara, tuna, vampire, vole, vulture, wallaby, wasp, wolf, worm, wren list called here mainList. and matching category from 1. Mammals
+2. Birds
+3. Fish
+4. Insects
+5. Reptiles
+6. Amphibians
+7. Arthropods
+8. Mollusks
+9. Crustaceans
+10. Cephalopods for all mainList values. in order of mainList. output single most matching category with single each value in mainList
+tmp = aardvark, Mammals
+antelope, Mammals
+bass, Fish
+bear, Mammals
+boar, Mammals
+buffalo, Mammals
+calf, Mammals
+carp, Fish
+catfish, Fish
+cavy, Mammals
+cheetah, Mammals
+chicken, Birds
+chub, Fish
+clam, Mollusks
+crab, Crustaceans
+crayfish, Crustaceans
+crow, Birds
+deer, Mammals
+dogfish, Fish
+dolphin, Mammals
+dove, Birds
+duck, Birds
+elephant, Mammals
+flamingo, Birds
+flea, Insects
+frog, Amphibians
+fruitbat, Mammals
+giraffe, Mammals
+girl, Mammals
+gnat, Insects
+goat, Mammals
+gorilla, Mammals
+gull, Birds
+haddock, Fish
+hamster, Mammals
+hare, Mammals
+hawk, Birds
+herring, Fish
+honeybee, Insects
+housefly, Insects
+kiwi, Birds
+ladybird, Insects
+lark, Birds
+leopard, Mammals
+lion, Mammals
+lobster, Crustaceans
+lynx, Mammals
+mink, Mammals
+mole, Mammals
+mongoose, Mammals
+moth, Insects
+newt, Amphibians
+octopus, Cephalopods
+opossum, Mammals
+oryx, Mammals
+ostrich, Birds
+parakeet, Birds
+penguin, Birds
+pheasant, Birds
+pike, Fish
+piranha, Fish
+pitviper, Reptiles
+platypus, Mammals
+polecat, Mammals
+pony, Mammals
+porpoise, Mammals
+puma, Mammals
+pussycat, Mammals
+raccoon, Mammals
+reindeer, Mammals
+rhea, Birds
+scorpion, Arthropods
+seahorse, Fish
+seal, Mammals
+sealion, Mammals
+seasnake, Reptiles
+seawasp, Arthropods
+skimmer, Birds
+skua, Birds
+slowworm, Reptiles
+slug, Mollusks
+sole, Fish
+sparrow, Birds
+squirrel, Mammals
+starfish, Mollusks
+stingray, Fish
+swan, Birds
+termite, Insects
+toad, Amphibians
+tortoise, Reptiles
+tuatara, Reptiles
+tuna, Fish
+vampire, Mammals
+vole, Mammals
+vulture, Birds
+wallaby, Mammals
+wasp, Insects
+wolf, Mammals
+worm, Insects
+wren, Birds
+Elapsed time 125: 472.78 seconds
+prompt = extract and output only predation names from following text : extract predation categories from following text aardvark, Mammals
+antelope, Mammals
+bass, Fish
+bear, Mammals
+boar, Mammals
+buffalo, Mammals
+calf, Mammals
+carp, Fish
+catfish, Fish
+cavy, Mammals
+cheetah, Mammals
+chicken, Birds
+chub, Fish
+clam, Mollusks
+crab, Crustaceans
+crayfish, Crustaceans
+crow, Birds
+deer, Mammals
+dogfish, Fish
+dolphin, Mammals
+dove, Birds
+duck, Birds
+elephant, Mammals
+flamingo, Birds
+flea, Insects
+frog, Amphibians
+fruitbat, Mammals
+giraffe, Mammals
+girl, Mammals
+gnat, Insects
+goat, Mammals
+gorilla, Mammals
+gull, Birds
+haddock, Fish
+hamster, Mammals
+hare, Mammals
+hawk, Birds
+herring, Fish
+honeybee, Insects
+housefly, Insects
+kiwi, Birds
+ladybird, Insects
+lark, Birds
+leopard, Mammals
+lion, Mammals
+lobster, Crustaceans
+lynx, Mammals
+mink, Mammals
+mole, Mammals
+mongoose, Mammals
+moth, Insects
+newt, Amphibians
+octopus, Cephalopods
+opossum, Mammals
+oryx, Mammals
+ostrich, Birds
+parakeet, Birds
+penguin, Birds
+pheasant, Birds
+pike, Fish
+piranha, Fish
+pitviper, Reptiles
+platypus, Mammals
+polecat, Mammals
+pony, Mammals
+porpoise, Mammals
+puma, Mammals
+pussycat, Mammals
+raccoon, Mammals
+reindeer, Mammals
+rhea, Birds
+scorpion, Arthropods
+seahorse, Fish
+seal, Mammals
+sealion, Mammals
+seasnake, Reptiles
+seawasp, Arthropods
+skimmer, Birds
+skua, Birds
+slowworm, Reptiles
+slug, Mollusks
+sole, Fish
+sparrow, Birds
+squirrel, Mammals
+starfish, Mollusks
+stingray, Fish
+swan, Birds
+termite, Insects
+toad, Amphibians
+tortoise, Reptiles
+tuatara, Reptiles
+tuna, Fish
+vampire, Mammals
+vole, Mammals
+vulture, Birds
+wallaby, Mammals
+wasp, Insects
+wolf, Mammals
+worm, Insects
+wren, Birds
+tmp = Mammals
+Mammals
+Fish
+Mammals
+Mammals
+Mammals
+Mammals
+Fish
+Fish
+Mammals
+Mammals
+Mammals
+Birds
+Fish
+Mollusks
+Crustaceans
+Crustaceans
+Birds
+Mammals
+Fish
+Mammals
+Birds
+Birds
+Mammals
+Birds
+Insects
+Amphibians
+Mammals
+Mammals
+Mammals
+Birds
+Fish
+Mammals
+Mammals
+Birds
+Fish
+Insects
+Insects
+Birds
+Insects
+Birds
+Mammals
+Mammals
+Mammals
+Mammals
+Mammals
+Mammals
+Mammals
+Birds
+Arthropods
+Fish
+Mammals
+Mammals
+Reptiles
+Mammals
+Mammals
+Birds
+Arthropods
+Birds
+Birds
+Reptiles
+Mollusks
+Fish
+Birds
+Insects
+Amphibians
+Reptiles
+Reptiles
+Fish
+Mammals
+Mammals
+Birds
+Mammals
+Insects
+Mammals
+Insects
+Birds
+Elapsed time 126: 475.89 seconds
+prompt = give categorical numerical numbers to the following predation feature  Mammals
+Mammals
+Fish
+Mammals
+Mammals
+Mammals
+Mammals
+Fish
+Fish
+Mammals
+Mammals
+Mammals
+Birds
+Fish
+Mollusks
+Crustaceans
+Crustaceans
+Birds
+Mammals
+Fish
+Mammals
+Birds
+Birds
+Mammals
+Birds
+Insects
+Amphibians
+Mammals
+Mammals
+Mammals
+Birds
+Fish
+Mammals
+Mammals
+Birds
+Fish
+Insects
+Insects
+Birds
+Insects
+Birds
+Mammals
+Mammals
+Mammals
+Mammals
+Mammals
+Mammals
+Mammals
+Birds
+Arthropods
+Fish
+Mammals
+Mammals
+Reptiles
+Mammals
+Mammals
+Birds
+Arthropods
+Birds
+Birds
+Reptiles
+Mollusks
+Fish
+Birds
+Insects
+Amphibians
+Reptiles
+Reptiles
+Fish
+Mammals
+Mammals
+Birds
+Mammals
+Insects
+Mammals
+Insects
+Birds to add to machine learning classification task in dataset
+tmp = 1. Mammals - 20
+2. Fish - 8
+3. Birds - 13
+4. Mollusks - 2
+5. Crustaceans - 2
+6. Insects - 7
+7. Amphibians - 2
+8. Arthropods - 2
+9. Reptiles - 4
+Elapsed time 127: 477.16 seconds
+prompt = Change predation feature name in answer  = aardvark, Mammals
+antelope, Mammals
+bass, Fish
+bear, Mammals
+boar, Mammals
+buffalo, Mammals
+calf, Mammals
+carp, Fish
+catfish, Fish
+cavy, Mammals
+cheetah, Mammals
+chicken, Birds
+chub, Fish
+clam, Mollusks
+crab, Crustaceans
+crayfish, Crustaceans
+crow, Birds
+deer, Mammals
+dogfish, Fish
+dolphin, Mammals
+dove, Birds
+duck, Birds
+elephant, Mammals
+flamingo, Birds
+flea, Insects
+frog, Amphibians
+fruitbat, Mammals
+giraffe, Mammals
+girl, Mammals
+gnat, Insects
+goat, Mammals
+gorilla, Mammals
+gull, Birds
+haddock, Fish
+hamster, Mammals
+hare, Mammals
+hawk, Birds
+herring, Fish
+honeybee, Insects
+housefly, Insects
+kiwi, Birds
+ladybird, Insects
+lark, Birds
+leopard, Mammals
+lion, Mammals
+lobster, Crustaceans
+lynx, Mammals
+mink, Mammals
+mole, Mammals
+mongoose, Mammals
+moth, Insects
+newt, Amphibians
+octopus, Cephalopods
+opossum, Mammals
+oryx, Mammals
+ostrich, Birds
+parakeet, Birds
+penguin, Birds
+pheasant, Birds
+pike, Fish
+piranha, Fish
+pitviper, Reptiles
+platypus, Mammals
+polecat, Mammals
+pony, Mammals
+porpoise, Mammals
+puma, Mammals
+pussycat, Mammals
+raccoon, Mammals
+reindeer, Mammals
+rhea, Birds
+scorpion, Arthropods
+seahorse, Fish
+seal, Mammals
+sealion, Mammals
+seasnake, Reptiles
+seawasp, Arthropods
+skimmer, Birds
+skua, Birds
+slowworm, Reptiles
+slug, Mollusks
+sole, Fish
+sparrow, Birds
+squirrel, Mammals
+starfish, Mollusks
+stingray, Fish
+swan, Birds
+termite, Insects
+toad, Amphibians
+tortoise, Reptiles
+tuatara, Reptiles
+tuna, Fish
+vampire, Mammals
+vole, Mammals
+vulture, Birds
+wallaby, Mammals
+wasp, Insects
+wolf, Mammals
+worm, Insects
+wren, Birds to number from 1. Mammals - 20
+2. Fish - 8
+3. Birds - 13
+4. Mollusks - 2
+5. Crustaceans - 2
+6. Insects - 7
+7. Amphibians - 2
+8. Arthropods - 2
+9. Reptiles - 4 and output first column in answer and number in csv format
+tmp = aardvark,1
+antelope,1
+bass,2
+bear,1
+boar,1
+buffalo,1
+calf,1
+carp,2
+catfish,2
+cavy,1
+cheetah,1
+chicken,3
+chub,2
+clam,4
+crab,5
+crayfish,5
+crow,3
+deer,1
+dogfish,2
+dolphin,1
+dove,3
+duck,3
+elephant,1
+flamingo,3
+flea,6
+frog,7
+fruitbat,1
+giraffe,1
+girl,1
+gnat,6
+goat,1
+gorilla,1
+gull,3
+haddock,2
+hamster,1
+hare,1
+hawk,3
+herring,2
+honeybee,6
+housefly,6
+kiwi,3
+ladybird,6
+lark,3
+leopard,1
+lion,1
+lobster,5
+lynx,1
+mink,1
+mole,1
+mongoose,1
+moth,6
+newt,7
+octopus,4
+opossum,1
+oryx,1
+ostrich,3
+parakeet,3
+penguin,3
+pheasant,3
+pike,2
+piranha,2
+pitviper,9
+platypus,1
+polecat,1
+pony,1
+porpoise,1
+puma,1
+pussycat,1
+raccoon,1
+reindeer,1
+rhea,3
+scorpion,8
+seahorse,2
+seal,1
+sealion,1
+seasnake,9
+seawasp,8
+skimmer,3
+skua,3
+slowworm,9
+slug,4
+sole,2
+sparrow,3
+squirrel,1
+starfish,4
+stingray,2
+swan,3
+termite,6
+toad,7
+tortoise,9
+tuatara,9
+tuna,2
+vampire,1
+vole,1
+vulture,3
+wallaby,1
+wasp,6
+wolf,1
+worm,6
+wren,3
+Elapsed time 128: 483.64 seconds
+Directory 'output_new2/predation/' already exists.
+sddssdsd = /home/ilia/Desktop/work/res_daset
+here
+in cut = outname = output_new2/predation/out1 input = output_new2/predation/raw_out startln = 1
+new_origin.csv
+fir = fruitbat df = frog,num= 26
+Directory 'output_new2/predation/' already exists.
+new_origin.csv
+in cut = outname = output_new2/predation/out_cut_2_0 input = output_new2/predation/new_origin.csv startln = 27
+in cut = outname = output_new2/predation/out_cut_2_1 input = output_new2/predation/out1 startln = 26
+Directory 'output_new2/predation/' already exists.
+Appended contents of 'output_new2/predation/out2_combined' to 'output_new2/predation/out1_combined' successfully.
+Accuracy_1: 100.00%
+
+Report:
+              precision    recall  f1-score   support
+
+           1       1.00      1.00      1.00        11
+           2       1.00      1.00      1.00         4
+           3       1.00      1.00      1.00         1
+           4       1.00      1.00      1.00         2
+           5       1.00      1.00      1.00         1
+           7       1.00      1.00      1.00         1
+
+    accuracy                           1.00        20
+   macro avg       1.00      1.00      1.00        20
+weighted avg       1.00      1.00      1.00        20
+
+Elapsed time 129: 483.68 seconds
+Processing element: migration patterns
+prompt = I need top migration patterns feature categories for list aardvark, antelope, bass, bear, boar, buffalo, calf, carp, catfish, cavy, cheetah, chicken, chub, clam, crab, crayfish, crow, deer, dogfish, dolphin, dove, duck, elephant, flamingo, flea, frog, frog, fruitbat, giraffe, girl, gnat, goat, gorilla, gull, haddock, hamster, hare, hawk, herring, honeybee, housefly, kiwi, ladybird, lark, leopard, lion, lobster, lynx, mink, mole, mongoose, moth, newt, octopus, opossum, oryx, ostrich, parakeet, penguin, pheasant, pike, piranha, pitviper, platypus, polecat, pony, porpoise, puma, pussycat, raccoon, reindeer, rhea, scorpion, seahorse, seal, sealion, seasnake, seawasp, skimmer, skua, slowworm, slug, sole, sparrow, squirrel, starfish, stingray, swan, termite, toad, tortoise, tuatara, tuna, vampire, vole, vulture, wallaby, wasp, wolf, worm, wren. strictly migration patterns category names or values
+tmp = 1. Long-distance migration
+2. Short-distance migration
+3. Seasonal migration
+4. Altitudinal migration
+5. Nomadic migration
+6. Circular migration
+7. Irregular migration
+8. Latitudinal migration
+9. Diurnal migration
+10. Nocturnal migration
+Elapsed time 130: 485.06 seconds
+prompt = output pairs of values in csv format from aardvark, antelope, bass, bear, boar, buffalo, calf, carp, catfish, cavy, cheetah, chicken, chub, clam, crab, crayfish, crow, deer, dogfish, dolphin, dove, duck, elephant, flamingo, flea, frog, frog, fruitbat, giraffe, girl, gnat, goat, gorilla, gull, haddock, hamster, hare, hawk, herring, honeybee, housefly, kiwi, ladybird, lark, leopard, lion, lobster, lynx, mink, mole, mongoose, moth, newt, octopus, opossum, oryx, ostrich, parakeet, penguin, pheasant, pike, piranha, pitviper, platypus, polecat, pony, porpoise, puma, pussycat, raccoon, reindeer, rhea, scorpion, seahorse, seal, sealion, seasnake, seawasp, skimmer, skua, slowworm, slug, sole, sparrow, squirrel, starfish, stingray, swan, termite, toad, tortoise, tuatara, tuna, vampire, vole, vulture, wallaby, wasp, wolf, worm, wren list called here mainList. and matching category from 1. Long-distance migration
+2. Short-distance migration
+3. Seasonal migration
+4. Altitudinal migration
+5. Nomadic migration
+6. Circular migration
+7. Irregular migration
+8. Latitudinal migration
+9. Diurnal migration
+10. Nocturnal migration for all mainList values. in order of mainList. output single most matching category with single each value in mainList
+tmp = aardvark, Nocturnal migration
+antelope, Long-distance migration
+bass, Nocturnal migration
+bear, Irregular migration
+boar, Nomadic migration
+buffalo, Long-distance migration
+calf, Nocturnal migration
+carp, Nocturnal migration
+catfish, Nocturnal migration
+cavy, Nocturnal migration
+cheetah, Irregular migration
+chicken, Diurnal migration
+chub, Nocturnal migration
+clam, Nocturnal migration
+crab, Nocturnal migration
+crayfish, Nocturnal migration
+crow, Diurnal migration
+deer, Long-distance migration
+dogfish, Nocturnal migration
+dolphin, Circular migration
+dove, Diurnal migration
+duck, Diurnal migration
+elephant, Nomadic migration
+flamingo, Seasonal migration
+flea, Nocturnal migration
+frog, Nocturnal migration
+fruitbat, Nocturnal migration
+giraffe, Long-distance migration
+girl, Nocturnal migration
+gnat, Nocturnal migration
+goat, Nomadic migration
+gorilla, Nomadic migration
+gull, Long-distance migration
+haddock, Nocturnal migration
+hamster, Nocturnal migration
+hare, Nocturnal migration
+hawk, Diurnal migration
+herring, Nocturnal migration
+honeybee, Diurnal migration
+housefly, Nocturnal migration
+kiwi, Nocturnal migration
+ladybird, Nocturnal migration
+lark, Diurnal migration
+leopard, Irregular migration
+lion, Nomadic migration
+lobster, Nocturnal migration
+lynx, Nocturnal migration
+mink, Nocturnal migration
+mole, Nocturnal migration
+mongoose, Nomadic migration
+moth, Nocturnal migration
+newt, Nocturnal migration
+octopus, Nocturnal migration
+opossum, Nocturnal migration
+oryx, Long-distance migration
+ostrich, Nomadic migration
+parakeet, Diurnal migration
+penguin, Long-distance migration
+pheasant, Long-distance migration
+pike, Nocturnal migration
+piranha, Nocturnal migration
+pitviper, Nocturnal migration
+platypus, Nocturnal migration
+polecate, Nocturnal migration
+pony, Nomadic migration
+porpoise, Circular migration
+puma, Nomadic migration
+pussycat, Nocturnal migration
+raccoon, Nocturnal migration
+reindeer, Seasonal migration
+rhea, Long-distance migration
+scorpion, Nocturnal migration
+seahorse, Nocturnal migration
+seal, Circular migration
+sealion, Circular migration
+seasnake, Nocturnal migration
+seawasp, Nocturnal migration
+skimmer, Nocturnal migration
+skua, Nocturnal migration
+slowworm, Nocturnal migration
+slug, Nocturnal migration
+sole, Nocturnal migration
+sparrow, Diurnal migration
+squirrel, Nomadic migration
+starfish, Nocturnal migration
+stingray, Nocturnal migration
+swan, Long-distance migration
+termite, Nocturnal migration
+toad, Nocturnal migration
+tortoise, Nocturnal migration
+tuatara, Nocturnal migration
+tuna, Long-distance migration
+vampire, Nocturnal migration
+vole, Nocturnal migration
+vulture, Nomadic migration
+wallaby, Nomadic migration
+wasp, Nocturnal migration
+wolf, Nomadic migration
+worm, Nocturnal migration
+wren, Diurnal migration
+Elapsed time 131: 492.47 seconds
+prompt = extract and output only migration patterns names from following text : extract migration patterns categories from following text aardvark, Nocturnal migration
+antelope, Long-distance migration
+bass, Nocturnal migration
+bear, Irregular migration
+boar, Nomadic migration
+buffalo, Long-distance migration
+calf, Nocturnal migration
+carp, Nocturnal migration
+catfish, Nocturnal migration
+cavy, Nocturnal migration
+cheetah, Irregular migration
+chicken, Diurnal migration
+chub, Nocturnal migration
+clam, Nocturnal migration
+crab, Nocturnal migration
+crayfish, Nocturnal migration
+crow, Diurnal migration
+deer, Long-distance migration
+dogfish, Nocturnal migration
+dolphin, Circular migration
+dove, Diurnal migration
+duck, Diurnal migration
+elephant, Nomadic migration
+flamingo, Seasonal migration
+flea, Nocturnal migration
+frog, Nocturnal migration
+fruitbat, Nocturnal migration
+giraffe, Long-distance migration
+girl, Nocturnal migration
+gnat, Nocturnal migration
+goat, Nomadic migration
+gorilla, Nomadic migration
+gull, Long-distance migration
+haddock, Nocturnal migration
+hamster, Nocturnal migration
+hare, Nocturnal migration
+hawk, Diurnal migration
+herring, Nocturnal migration
+honeybee, Diurnal migration
+housefly, Nocturnal migration
+kiwi, Nocturnal migration
+ladybird, Nocturnal migration
+lark, Diurnal migration
+leopard, Irregular migration
+lion, Nomadic migration
+lobster, Nocturnal migration
+lynx, Nocturnal migration
+mink, Nocturnal migration
+mole, Nocturnal migration
+mongoose, Nomadic migration
+moth, Nocturnal migration
+newt, Nocturnal migration
+octopus, Nocturnal migration
+opossum, Nocturnal migration
+oryx, Long-distance migration
+ostrich, Nomadic migration
+parakeet, Diurnal migration
+penguin, Long-distance migration
+pheasant, Long-distance migration
+pike, Nocturnal migration
+piranha, Nocturnal migration
+pitviper, Nocturnal migration
+platypus, Nocturnal migration
+polecate, Nocturnal migration
+pony, Nomadic migration
+porpoise, Circular migration
+puma, Nomadic migration
+pussycat, Nocturnal migration
+raccoon, Nocturnal migration
+reindeer, Seasonal migration
+rhea, Long-distance migration
+scorpion, Nocturnal migration
+seahorse, Nocturnal migration
+seal, Circular migration
+sealion, Circular migration
+seasnake, Nocturnal migration
+seawasp, Nocturnal migration
+skimmer, Nocturnal migration
+skua, Nocturnal migration
+slowworm, Nocturnal migration
+slug, Nocturnal migration
+sole, Nocturnal migration
+sparrow, Diurnal migration
+squirrel, Nomadic migration
+starfish, Nocturnal migration
+stingray, Nocturnal migration
+swan, Long-distance migration
+termite, Nocturnal migration
+toad, Nocturnal migration
+tortoise, Nocturnal migration
+tuatara, Nocturnal migration
+tuna, Long-distance migration
+vampire, Nocturnal migration
+vole, Nocturnal migration
+vulture, Nomadic migration
+wallaby, Nomadic migration
+wasp, Nocturnal migration
+wolf, Nomadic migration
+worm, Nocturnal migration
+wren, Diurnal migration
+tmp = Nocturnal migration
+Long-distance migration
+Irregular migration
+Nomadic migration
+Diurnal migration
+Circular migration
+Seasonal migration
+Elapsed time 132: 493.15 seconds
+prompt = give categorical numerical numbers to the following migration patterns feature  Nocturnal migration
+Long-distance migration
+Irregular migration
+Nomadic migration
+Diurnal migration
+Circular migration
+Seasonal migration to add to machine learning classification task in dataset
+tmp = Nocturnal migration - 1
+Long-distance migration - 2
+Irregular migration - 3
+Nomadic migration - 4
+Diurnal migration - 5
+Circular migration - 6
+Seasonal migration - 7
+Elapsed time 133: 494.23 seconds
+prompt = Change migration patterns feature name in answer  = aardvark, Nocturnal migration
+antelope, Long-distance migration
+bass, Nocturnal migration
+bear, Irregular migration
+boar, Nomadic migration
+buffalo, Long-distance migration
+calf, Nocturnal migration
+carp, Nocturnal migration
+catfish, Nocturnal migration
+cavy, Nocturnal migration
+cheetah, Irregular migration
+chicken, Diurnal migration
+chub, Nocturnal migration
+clam, Nocturnal migration
+crab, Nocturnal migration
+crayfish, Nocturnal migration
+crow, Diurnal migration
+deer, Long-distance migration
+dogfish, Nocturnal migration
+dolphin, Circular migration
+dove, Diurnal migration
+duck, Diurnal migration
+elephant, Nomadic migration
+flamingo, Seasonal migration
+flea, Nocturnal migration
+frog, Nocturnal migration
+fruitbat, Nocturnal migration
+giraffe, Long-distance migration
+girl, Nocturnal migration
+gnat, Nocturnal migration
+goat, Nomadic migration
+gorilla, Nomadic migration
+gull, Long-distance migration
+haddock, Nocturnal migration
+hamster, Nocturnal migration
+hare, Nocturnal migration
+hawk, Diurnal migration
+herring, Nocturnal migration
+honeybee, Diurnal migration
+housefly, Nocturnal migration
+kiwi, Nocturnal migration
+ladybird, Nocturnal migration
+lark, Diurnal migration
+leopard, Irregular migration
+lion, Nomadic migration
+lobster, Nocturnal migration
+lynx, Nocturnal migration
+mink, Nocturnal migration
+mole, Nocturnal migration
+mongoose, Nomadic migration
+moth, Nocturnal migration
+newt, Nocturnal migration
+octopus, Nocturnal migration
+opossum, Nocturnal migration
+oryx, Long-distance migration
+ostrich, Nomadic migration
+parakeet, Diurnal migration
+penguin, Long-distance migration
+pheasant, Long-distance migration
+pike, Nocturnal migration
+piranha, Nocturnal migration
+pitviper, Nocturnal migration
+platypus, Nocturnal migration
+polecate, Nocturnal migration
+pony, Nomadic migration
+porpoise, Circular migration
+puma, Nomadic migration
+pussycat, Nocturnal migration
+raccoon, Nocturnal migration
+reindeer, Seasonal migration
+rhea, Long-distance migration
+scorpion, Nocturnal migration
+seahorse, Nocturnal migration
+seal, Circular migration
+sealion, Circular migration
+seasnake, Nocturnal migration
+seawasp, Nocturnal migration
+skimmer, Nocturnal migration
+skua, Nocturnal migration
+slowworm, Nocturnal migration
+slug, Nocturnal migration
+sole, Nocturnal migration
+sparrow, Diurnal migration
+squirrel, Nomadic migration
+starfish, Nocturnal migration
+stingray, Nocturnal migration
+swan, Long-distance migration
+termite, Nocturnal migration
+toad, Nocturnal migration
+tortoise, Nocturnal migration
+tuatara, Nocturnal migration
+tuna, Long-distance migration
+vampire, Nocturnal migration
+vole, Nocturnal migration
+vulture, Nomadic migration
+wallaby, Nomadic migration
+wasp, Nocturnal migration
+wolf, Nomadic migration
+worm, Nocturnal migration
+wren, Diurnal migration to number from Nocturnal migration - 1
+Long-distance migration - 2
+Irregular migration - 3
+Nomadic migration - 4
+Diurnal migration - 5
+Circular migration - 6
+Seasonal migration - 7 and output first column in answer and number in csv format
+tmp = aardvark, 1
+antelope, 2
+bass, 1
+bear, 3
+boar, 4
+buffalo, 2
+calf, 1
+carp, 1
+catfish, 1
+cavy, 1
+cheetah, 3
+chicken, 5
+chub, 1
+clam, 1
+crab, 1
+crayfish, 1
+crow, 5
+deer, 2
+dogfish, 1
+dolphin, 6
+dove, 5
+duck, 5
+elephant, 4
+flamingo, 7
+flea, 1
+frog, 1
+fruitbat, 1
+giraffe, 2
+girl, 1
+gnat, 1
+goat, 4
+gorilla, 4
+gull, 2
+haddock, 1
+hamster, 1
+hare, 1
+hawk, 5
+herring, 1
+honeybee, 5
+housefly, 1
+kiwi, 1
+ladybird, 1
+lark, 5
+leopard, 3
+lion, 4
+lobster, 1
+lynx, 1
+mink, 1
+mole, 1
+mongoose, 4
+moth, 1
+newt, 1
+octopus, 1
+opossum, 1
+oryx, 2
+ostrich, 4
+parakeet, 5
+penguin, 2
+pheasant, 2
+pike, 1
+piranha, 1
+pitviper, 1
+platypus, 1
+polecate, 1
+pony, 4
+porpoise, 6
+puma, 4
+pussycat, 1
+raccoon, 1
+reindeer, 7
+rhea, 2
+scorpion, 1
+seahorse, 1
+seal, 6
+sealion, 6
+seasnake, 1
+seawasp, 1
+skimmer, 1
+skua, 1
+slowworm, 1
+slug, 1
+sole, 1
+sparrow, 5
+squirrel, 4
+starfish, 1
+stingray, 1
+swan, 2
+termite, 1
+toad, 1
+tortoise, 1
+tuatara, 1
+tuna, 2
+vampire, 1
+vole, 1
+vulture, 4
+wallaby, 4
+wasp, 1
+wolf, 4
+worm, 1
+wren, 5
+Elapsed time 134: 501.38 seconds
+Directory 'output_new2/migration patterns/' created successfully.
+sddssdsd = /home/ilia/Desktop/work/res_daset
+here
+in cut = outname = output_new2/migration patterns/out1 input = output_new2/migration patterns/raw_out startln = 1
+new_origin.csv
+fir = fruitbat df = frog,num= 26
+Directory 'output_new2/migration patterns/' already exists.
+new_origin.csv
+in cut = outname = output_new2/migration patterns/out_cut_2_0 input = output_new2/migration patterns/new_origin.csv startln = 27
+in cut = outname = output_new2/migration patterns/out_cut_2_1 input = output_new2/migration patterns/out1 startln = 26
+Directory 'output_new2/migration patterns/' already exists.
+Appended contents of 'output_new2/migration patterns/out2_combined' to 'output_new2/migration patterns/out1_combined' successfully.
+Accuracy_1: 50.00%
+
+Report:
+              precision    recall  f1-score   support
+
+           1       0.53      0.82      0.64        11
+           2       0.33      0.25      0.29         4
+           3       0.00      0.00      0.00         1
+           4       0.00      0.00      0.00         2
+           5       0.00      0.00      0.00         1
+           7       0.00      0.00      0.00         1
+
+    accuracy                           0.50        20
+   macro avg       0.14      0.18      0.15        20
+weighted avg       0.36      0.50      0.41        20
+
+hallucination probably accuracy
+Condition met, repeating the loop on this element once more
+Elapsed time 135: 501.43 seconds
+Processing element: migration patterns

@@ -1,0 +1,63 @@
+rand_state0 = Accuracy_1: 60.00%
+Fitting 4 folds for each of 7 candidates, totalling 28 fits
+C:\Users\owner\anaconda3\envs\pyproj\lib\site-packages\sklearn\model_selection\_split.py:725: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=4.
+  warnings.warn(
+C:\Users\owner\anaconda3\envs\pyproj\lib\site-packages\sklearn\metrics\_classification.py:1469: UndefinedMetricWarning: Precision and F-score are ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+C:\Users\owner\anaconda3\envs\pyproj\lib\site-packages\sklearn\metrics\_classification.py:1469: UndefinedMetricWarning: Precision and F-score are ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+C:\Users\owner\anaconda3\envs\pyproj\lib\site-packages\sklearn\metrics\_classification.py:1469: UndefinedMetricWarning: Precision and F-score are ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+Accuracy: 70.00%
+
+Report:
+              precision    recall  f1-score   support
+
+           1       0.90      0.82      0.86        11
+           2       0.60      0.75      0.67         4
+           3       0.00      0.00      0.00         1
+           4       0.40      1.00      0.57         2
+           5       0.00      0.00      0.00         1
+           7       0.00      0.00      0.00         1
+
+    accuracy                           0.70        20
+   macro avg       0.32      0.43      0.35        20
+weighted avg       0.66      0.70      0.66        20
+
+
+Process finished with exit code 0
+
+
+fin_fin_0101
+
+
+rand_state3 = 
+Accuracy_1: 55.00%
+Fitting 4 folds for each of 7 candidates, totalling 28 fits
+C:\Users\owner\anaconda3\envs\pyproj\lib\site-packages\sklearn\model_selection\_split.py:725: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=4.
+  warnings.warn(
+C:\Users\owner\anaconda3\envs\pyproj\lib\site-packages\sklearn\metrics\_classification.py:1469: UndefinedMetricWarning: Precision and F-score are ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+C:\Users\owner\anaconda3\envs\pyproj\lib\site-packages\sklearn\metrics\_classification.py:1469: UndefinedMetricWarning: Precision and F-score are ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+C:\Users\owner\anaconda3\envs\pyproj\lib\site-packages\sklearn\metrics\_classification.py:1469: UndefinedMetricWarning: Precision and F-score are ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+Accuracy: 55.00%
+
+Report:
+              precision    recall  f1-score   support
+
+           1       1.00      0.71      0.83         7
+           2       0.36      1.00      0.53         4
+           3       0.00      0.00      0.00         1
+           4       0.50      1.00      0.67         2
+           5       0.00      0.00      0.00         1
+           6       0.00      0.00      0.00         2
+           7       0.00      0.00      0.00         3
+
+    accuracy                           0.55        20
+   macro avg       0.27      0.39      0.29        20
+weighted avg       0.47      0.55      0.47        20
+
+
+Process finished with exit code 0

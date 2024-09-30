@@ -1,0 +1,1907 @@
+
+problem 1.
+DIET
+
+
+Elapsed time 9: 24.28 seconds
+tmp = 1. Aardvark
+2. Antelope
+3. Bass
+4. Bear
+5. Boar
+6. Buffalo
+7. Carp
+8. Catfish
+9. Cavy
+10. Cheetah
+11. Chicken
+12. Chub
+13. Clam
+14. Crab
+15. Crayfish
+16. Crow
+17. Deer
+18. Dogfish
+19. Dolphin
+20. Dove
+21. Duck
+22. Elephant
+23. Flamingo
+24. Frog
+25. Fruitbat
+26. Giraffe
+27. Gnat
+28. Goat
+29. Gorilla
+30. Haddock
+31. Hamster
+32. Hare
+33. Hawk
+34. Herring
+35. Honeybee
+36. Housefly
+37. Kiwi
+38. Ladybird
+39. Lark
+40. Leopard
+41. Lion
+42. Lobster
+43. Lynx
+44. Mink
+45. Mole
+46. Mongoose
+47. Moth
+48. Newt
+49. Octopus
+50. Opossum
+51. Oryx
+52. Ostrich
+53. Parakeet
+54. Penguin
+55. Pheasant
+56. Pike
+57. Piranha
+58. Pitviper
+59. Platypus
+60. Polecat
+61. Pony
+62. Porpoise
+63. Puma
+64. Pussycat
+65. Raccoon
+66. Reindeer
+67. Rhea
+68. Scorpion
+69. Seahorse
+70. Seal
+71. Sealion
+72. Seasnake
+73. Seawasp
+74. Skimmer
+75. Skua
+76. Slowworm
+77. Slug
+78. Sole
+79. Sparrow
+80. Squirrel
+81. Starfish
+82. Stingray
+83. Swan
+84. Termite
+85. Toad
+86. Tortoise
+87. Tuatara
+88. Tuna
+89. Vampire
+90. Vole
+91. Vulture
+92. Wallaby
+93. Wasp
+94. Wolf
+95. Worm
+96. Wren
+Elapsed time 10: 32.47 seconds
+tmp = aardvark,1
+antelope,2
+bass,3
+bear,4
+boar,5
+buffalo,6
+calf,
+carp,7
+catfish,8
+cavy,9
+cheetah,10
+chicken,11
+chub,12
+clam,13
+crab,14
+crayfish,15
+crow,16
+deer,17
+dogfish,18
+dolphin,19
+dove,20
+duck,21
+elephant,22
+flamingo,23
+flea,
+frog,24
+frog,24
+fruitbat,25
+giraffe,26
+girl,
+gnat,27
+goat,28
+gorilla,29
+gull,
+haddock,30
+hamster,31
+hare,32
+hawk,33
+herring,34
+honeybee,35
+housefly,36
+kiwi,37
+ladybird,38
+lark,39
+leopard,40
+lion,41
+lobster,42
+lynx,43
+mink,44
+mole,45
+mongoose,46
+moth,47
+newt,48
+octopus,49
+opossum,50
+oryx,51
+ostrich,52
+parakeet,53
+penguin,54
+pheasant,55
+pike,56
+piranha,57
+pitviper,58
+platypus,59
+polecat,60
+pony,61
+porpoise,62
+puma,63
+pussycat,64
+raccoon,65
+reindeer,66
+rhea,67
+scorpion,68
+seahorse,69
+seal,70
+sealion,71
+seasnake,72
+seawasp,73
+skimmer,74
+skua,75
+slowworm,76
+slug,77
+sole,78
+sparrow,79
+squirrel,80
+starfish,81
+stingray,82
+swan,83
+termite,84
+toad,85
+tortoise,86
+tuatara,87
+tuna,88
+vampire,89
+vole,90
+vulture,91
+wallaby,92
+wasp,93
+wolf,94
+worm,95
+wren,96
+Elapsed time 11: 41.98 seconds
+tmp = chicken, bass, carp, catfish, cavy, cheetah, chub, clam, crab, crayfish, crow, deer, dogfish, dolphin, dove, duck, elephant, flamingo, frog, fruitbat, giraffe, gnat, goat, gorilla, haddock, hamster, hare, hawk, herring, honeybee, housefly, kiwi, ladybird, lark, leopard, lion, lobster, lynx, mink, mole, mongoose, moth, newt, octopus, opossum, oryx, ostrich, parakeet, penguin, pheasant, pike, piranha, pitviper, platypus, polecat, pony, porpoise, puma, pussycat, raccoon, reindeer, rhea, scorpion, seahorse, seal, sealion, seasnake, seawasp, skimmer, skua, slowworm, slug, sole, sparrow, squirrel, starfish, stingray, swan, termite, toad, tortoise, tuatara, tuna, vampire, vole, vulture, wallaby, wasp, wolf, worm, wren
+Elapsed time 12: 46.79 seconds
+tmp = 1. Chicken - 1
+2. Bass - 2
+3. Carp - 3
+4. Catfish - 4
+5. Cavy - 5
+6. Cheetah - 6
+7. Chub - 7
+8. Clam - 8
+9. Crab - 9
+10. Crayfish - 10
+11. Crow - 11
+12. Deer - 12
+13. Dogfish - 13
+14. Dolphin - 14
+15. Dove - 15
+16. Duck - 16
+17. Elephant - 17
+18. Flamingo - 18
+19. Frog - 19
+20. Fruitbat - 20
+21. Giraffe - 21
+22. Gnat - 22
+23. Goat - 23
+24. Gorilla - 24
+25. Haddock - 25
+26. Hamster - 26
+27. Hare - 27
+28. Hawk - 28
+29. Herring - 29
+30. Honeybee - 30
+31. Housefly - 31
+32. Kiwi - 32
+33. Ladybird - 33
+34. Lark - 34
+35. Leopard - 35
+36. Lion - 36
+37. Lobster - 37
+38. Lynx - 38
+39. Mink - 39
+40. Mole - 40
+41. Mongoose - 41
+42. Moth - 42
+43. Newt - 43
+44. Octopus - 44
+45. Opossum - 45
+46. Oryx - 46
+47. Ostrich - 47
+48. Parakeet - 48
+49. Penguin - 49
+50. Pheasant - 50
+51. Pike - 51
+52. Piranha - 52
+53. Pitviper - 53
+54. Platypus - 54
+55. Polecat - 55
+56. Pony - 56
+57. Porpoise - 57
+58. Puma - 58
+59. Pussycat - 59
+60. Raccoon - 60
+61. Reindeer - 61
+62. Rhea - 62
+63. Scorpion - 63
+64. Seahorse - 64
+65. Seal - 65
+66. Sealion - 66
+67. Seasnake - 67
+68. Seawasp - 68
+69. Skimmer - 69
+70. Skua - 70
+71. Slowworm - 71
+72. Slug - 72
+73. Sole - 73
+74. Sparrow - 74
+75. Squirrel - 75
+76. Starfish - 76
+77. Stingray - 77
+78. Swan - 78
+79. Termite - 79
+80. Toad - 80
+81. Tortoise - 81
+82. Tuatara - 82
+83. Tuna - 83
+84. Vampire - 84
+85. Vole - 85
+86. Vulture - 86
+87. Wallaby - 87
+88. Wasp - 88
+89. Wolf - 89
+90. Worm - 90
+91. Wren - 91
+Elapsed time 13: 56.52 seconds
+tmp = aardvark,1
+antelope,2
+bass,3
+bear,4
+boar,5
+buffalo,6
+calf,7
+carp,8
+catfish,9
+cavy,10
+cheetah,11
+chicken,12
+chub,13
+clam,14
+crab,15
+crayfish,16
+crow,17
+deer,18
+dogfish,19
+dolphin,20
+dove,21
+duck,22
+elephant,23
+flamingo,24
+flea,25
+frog,26
+frog,27
+fruitbat,28
+giraffe,29
+girl,30
+gnat,31
+goat,32
+gorilla,33
+gull,34
+haddock,35
+hamster,36
+hare,37
+hawk,38
+herring,39
+honeybee,40
+housefly,41
+kiwi,42
+ladybird,43
+lark,44
+leopard,45
+lion,46
+lobster,47
+lynx,48
+mink,49
+mole,50
+mongoose,51
+moth,52
+newt,53
+octopus,54
+opossum,55
+oryx,56
+ostrich,57
+parakeet,58
+penguin,59
+pheasant,60
+pike,61
+piranha,62
+pitviper,63
+platypus,64
+polecat,65
+pony,66
+porpoise,67
+puma,68
+pussycat,69
+raccoon,70
+reindeer,71
+rhea,72
+scorpion,73
+seahorse,74
+seal,75
+sealion,76
+seasnake,77
+seawasp,78
+skimmer,79
+skua,80
+slowworm,81
+slug,82
+sole,83
+sparrow,84
+squirrel,85
+starfish,86
+stingray,87
+swan,88
+termite,89
+toad,90
+tortoise,91
+tuatara,92
+tuna,93
+vampire,94
+vole,95
+vulture,96
+wallaby,97
+wasp,98
+wolf,99
+worm,100
+wren,101
+Elapsed time 14: 65.23 seconds
+Directory '../output_diet/' created successfully.
+here
+in cut = outname = ../output_diet/out1 input = ../output_diet/raw_out startln = 1
+new_origin.csv
+Directory '../output_diet/' already exists.
+new_origin.csv
+in cut = outname = ../output_diet/out_cut_2_0 input = ../output_diet/new_origin.csv startln = 27
+in cut = outname = ../output_diet/out_cut_2_1 input = ../output_diet/out1 startln = 26
+Directory '../output_diet/' already exists.
+Appended contents of '../output_diet/out2_combined' to '../output_diet/out1_combined' successfully.
+Accuracy_1: 30.00%
+
+
+Report:
+              precision    recall  f1-score   support
+
+           1       0.33      0.09      0.14        11
+           2       0.33      0.50      0.40         4
+           3       0.00      0.00      0.00         1
+           4       0.20      0.50      0.29         2
+           5       0.50      1.00      0.67         1
+           6       0.00      0.00      0.00         0
+           7       0.33      1.00      0.50         1
+
+    accuracy                           0.30        20
+   macro avg       0.24      0.44      0.29        20
+weighted avg       0.31      0.30      0.25        20
+
+problem 2.
+
+LIFESPAN
+Elapsed time 21: 90.77 seconds
+tmp = 1. Aardvark
+2. Antelope
+3. Bass
+4. Bear
+5. Boar
+6. Buffalo
+7. Calf
+8. Carp
+9. Catfish
+10. Cavy
+11. Cheetah
+12. Chicken
+13. Chub
+14. Clam
+15. Crab
+16. Crayfish
+17. Crow
+18. Deer
+19. Dogfish
+20. Dolphin
+21. Dove
+22. Duck
+23. Elephant
+24. Flamingo
+25. Flea
+26. Frog
+27. Fruitbat
+28. Giraffe
+29. Gnat
+30. Goat
+31. Gorilla
+32. Gull
+33. Haddock
+34. Hamster
+35. Hare
+36. Hawk
+37. Herring
+38. Honeybee
+39. Housefly
+40. Kiwi
+41. Ladybird
+42. Lark
+43. Leopard
+44. Lion
+45. Lobster
+46. Lynx
+47. Mink
+48. Mole
+49. Mongoose
+50. Moth
+51. Newt
+52. Octopus
+53. Opossum
+54. Oryx
+55. Ostrich
+56. Parakeet
+57. Penguin
+58. Pheasant
+59. Pike
+60. Piranha
+61. Pitviper
+62. Platypus
+63. Polecat
+64. Pony
+65. Porpoise
+66. Puma
+67. Pussycat
+68. Raccoon
+69. Reindeer
+70. Rhea
+71. Scorpion
+72. Seahorse
+73. Seal
+74. Sealion
+75. Seasnake
+76. Seawasp
+77. Skimmer
+78. Skua
+79. Slowworm
+80. Slug
+81. Sole
+82. Sparrow
+83. Squirrel
+84. Starfish
+85. Stingray
+86. Swan
+87. Termite
+88. Toad
+89. Tortoise
+90. Tuatara
+91. Tuna
+92. Vampire
+93. Vole
+94. Vulture
+95. Wallaby
+96. Wasp
+97. Wolf
+98. Worm
+99. Wren
+Elapsed time 22: 99.02 seconds
+tmp = aardvark,1
+antelope,2
+bass,3
+bear,4
+boar,5
+buffalo,6
+calf,7
+carp,8
+catfish,9
+cavy,10
+cheetah,11
+chicken,12
+chub,13
+clam,14
+crab,15
+crayfish,16
+crow,17
+deer,18
+dogfish,19
+dolphin,20
+dove,21
+duck,22
+elephant,23
+flamingo,24
+flea,25
+frog,26
+fruitbat,27
+giraffe,28
+gnat,29
+goat,30
+gorilla,31
+gull,32
+haddock,33
+hamster,34
+hare,35
+hawk,36
+herring,37
+honeybee,38
+housefly,39
+kiwi,40
+ladybird,41
+lark,42
+leopard,43
+lion,44
+lobster,45
+lynx,46
+mink,47
+mole,48
+mongoose,49
+moth,50
+newt,51
+octopus,52
+opossum,53
+oryx,54
+ostrich,55
+parakeet,56
+penguin,57
+pheasant,58
+pike,59
+piranha,60
+pitviper,61
+platypus,62
+polecat,63
+pony,64
+porpoise,65
+puma,66
+pussycat,67
+raccoon,68
+reindeer,69
+rhea,70
+scorpion,71
+seahorse,72
+seal,73
+sealion,74
+seasnake,75
+seawasp,76
+skimmer,77
+skua,78
+slowworm,79
+slug,80
+sole,81
+sparrow,82
+squirrel,83
+starfish,84
+stingray,85
+swan,86
+termite,87
+toad,88
+tortoise,89
+tuatara,90
+tuna,91
+vampire,92
+vole,93
+vulture,94
+wallaby,95
+wasp,96
+wolf,97
+worm,98
+wren,99
+Elapsed time 23: 106.60 seconds
+tmp = aardvark
+antelope
+bass
+bear
+boar
+buffalo
+calf
+carp
+catfish
+cavy
+cheetah
+chicken
+chub
+clam
+crab
+crayfish
+crow
+deer
+dogfish
+dolphin
+dove
+duck
+elephant
+flamingo
+flea
+frog
+fruitbat
+giraffe
+gnat
+goat
+gorilla
+gull
+haddock
+hamster
+hare
+hawk
+herring
+honeybee
+housefly
+kiwi
+ladybird
+lark
+leopard
+lion
+lobster
+lynx
+mink
+mole
+mongoose
+moth
+newt
+octopus
+opossum
+oryx
+ostrich
+parakeet
+penguin
+pheasant
+pike
+piranha
+pitviper
+platypus
+polecat
+pony
+porpoise
+puma
+pussycat
+raccoon
+reindeer
+rhea
+scorpion
+seahorse
+seal
+sealion
+seasnake
+seawasp
+skimmer
+skua
+slowworm
+slug
+sole
+sparrow
+squirrel
+starfish
+stingray
+swan
+termite
+toad
+tortoise
+tuatara
+tuna
+vampire
+vole
+vulture
+wallaby
+wasp
+wolf
+worm
+wren
+Elapsed time 24: 111.92 seconds
+tmp = Here are the categorical numerical numbers for the lifespan feature of the animals listed:
+
+aardvark - 1
+antelope - 2
+bass - 3
+bear - 4
+boar - 5
+buffalo - 6
+calf - 7
+carp - 8
+catfish - 9
+cavy - 10
+cheetah - 11
+chicken - 12
+chub - 13
+clam - 14
+crab - 15
+crayfish - 16
+crow - 17
+deer - 18
+dogfish - 19
+dolphin - 20
+dove - 21
+duck - 22
+elephant - 23
+flamingo - 24
+flea - 25
+frog - 26
+fruitbat - 27
+giraffe - 28
+gnat - 29
+goat - 30
+gorilla - 31
+gull - 32
+haddock - 33
+hamster - 34
+hare - 35
+hawk - 36
+herring - 37
+honeybee - 38
+housefly - 39
+kiwi - 40
+ladybird - 41
+lark - 42
+leopard - 43
+lion - 44
+lobster - 45
+lynx - 46
+mink - 47
+mole - 48
+mongoose - 49
+moth - 50
+newt - 51
+octopus - 52
+opossum - 53
+oryx - 54
+ostrich - 55
+parakeet - 56
+penguin - 57
+pheasant - 58
+pike - 59
+piranha - 60
+pitviper - 61
+platypus - 62
+polecat - 63
+pony - 64
+porpoise - 65
+puma - 66
+pussycat - 67
+raccoon - 68
+reindeer - 69
+rhea - 70
+scorpion - 71
+seahorse - 72
+seal - 73
+sealion - 74
+seasnake - 75
+seawasp - 76
+skimmer - 77
+skua - 78
+slowworm - 79
+slug - 80
+sole - 81
+sparrow - 82
+squirrel - 83
+starfish - 84
+stingray - 85
+swan - 86
+termite - 87
+toad - 88
+tortoise - 89
+tuatara - 90
+tuna - 91
+vampire - 92
+vole - 93
+vulture - 94
+wallaby - 95
+wasp - 96
+wolf - 97
+worm - 98
+wren - 99
+
+These numerical values can be used in a machine learning classification task as part of a dataset.
+Elapsed time 25: 123.60 seconds
+tmp = aardvark,1
+antelope,2
+bass,3
+bear,4
+boar,5
+buffalo,6
+calf,7
+carp,8
+catfish,9
+cavy,10
+cheetah,11
+chicken,12
+chub,13
+clam,14
+crab,15
+crayfish,16
+crow,17
+deer,18
+dogfish,19
+dolphin,20
+dove,21
+duck,22
+elephant,23
+flamingo,24
+flea,25
+frog,26
+fruitbat,27
+giraffe,28
+gnat,29
+goat,30
+gorilla,31
+gull,32
+haddock,33
+hamster,34
+hare,35
+hawk,36
+herring,37
+honeybee,38
+housefly,39
+kiwi,40
+ladybird,41
+lark,42
+leopard,43
+lion,44
+lobster,45
+lynx,46
+mink,47
+mole,48
+mongoose,49
+moth,50
+newt,51
+octopus,52
+opossum,53
+oryx,54
+ostrich,55
+parakeet,56
+penguin,57
+pheasant,58
+pike,59
+piranha,60
+pitviper,61
+platypus,62
+polecat,63
+pony,64
+porpoise,65
+puma,66
+pussycat,67
+raccoon,68
+reindeer,69
+rhea,70
+scorpion,71
+seahorse,72
+seal,73
+sealion,74
+seasnake,75
+seawasp,76
+skimmer,77
+skua,78
+slowworm,79
+slug,80
+sole,81
+sparrow,82
+squirrel,83
+starfish,84
+stingray,85
+swan,86
+termite,87
+toad,88
+tortoise,89
+tuatara,90
+tuna,91
+vampire,92
+vole,93
+vulture,94
+wallaby,95
+wasp,96
+wolf,97
+worm,98
+wren,99
+Elapsed time 26: 131.27 seconds
+Directory '../output_lifespan/' already exists.
+here
+in cut = outname = ../output_lifespan/out1 input = ../output_lifespan/raw_out startln = 1
+new_origin.csv
+Directory '../output_lifespan/' already exists.
+new_origin.csv
+in cut = outname = ../output_lifespan/out_cut_2_0 input = ../output_lifespan/new_origin.csv startln = 27
+in cut = outname = ../output_lifespan/out_cut_2_1 input = ../output_lifespan/out1 startln = 26
+Directory '../output_lifespan/' already exists.
+Appended contents of '../output_lifespan/out2_combined' to '../output_lifespan/out1_combined' successfully.
+Accuracy_1: 35.00%
+
+Report:
+              precision    recall  f1-score   support
+
+           1       0.40      0.22      0.29         9
+           2       0.50      0.40      0.44         5
+           3       0.00      0.00      0.00         1
+           4       0.25      0.33      0.29         3
+           5       0.50      1.00      0.67         1
+           6       0.00      0.00      0.00         0
+           7       0.33      1.00      0.50         1
+
+    accuracy                           0.35        20
+   macro avg       0.28      0.42      0.31        20
+weighted avg       0.38      0.35      0.34        20
+
+problem 3
+
+SIZE
+
+Elapsed time 33: 170.16 seconds
+tmp = 1. Large: elephant, giraffe, lion, moose, whale
+2. Medium: antelope, buffalo, cheetah, gorilla, leopard
+3. Small: cat, chicken, frog, mouse, squirrel
+4. Tiny: flea, gnat, ladybird, termite, wren
+Elapsed time 34: 171.72 seconds
+tmp = elephant,Large
+giraffe,Large
+lion,Large
+moose,Large
+whale,Large
+antelope,Medium
+buffalo,Medium
+cheetah,Medium
+gorilla,Medium
+leopard,Medium
+cat,Small
+chicken,Small
+frog,Small
+mouse,Small
+squirrel,Small
+flea,Tiny
+gnat,Tiny
+ladybird,Tiny
+termite,Tiny
+wren,Tiny
+Elapsed time 35: 173.77 seconds
+tmp = Large
+Medium
+Small
+Tiny
+Elapsed time 36: 174.60 seconds
+tmp = Large - 3
+Medium - 2
+Small - 1
+Tiny - 0
+Elapsed time 37: 175.51 seconds
+tmp = elephant,3
+giraffe,3
+lion,3
+moose,3
+whale,3
+antelope,2
+buffalo,2
+cheetah,2
+gorilla,2
+leopard,2
+cat,1
+chicken,1
+frog,1
+mouse,1
+squirrel,1
+flea,0
+gnat,0
+ladybird,0
+termite,0
+wren,0
+Elapsed time 38: 177.77 seconds
+Directory '../output_size/' created successfully.
+new_origin.csv
+Directory '../output_size/' already exists.
+new_origin.csv
+in cut = outname = ../output_size/out_cut_2_0 input = ../output_size/new_origin.csv startln = -3
+in cut = outname = ../output_size/out_cut_2_1 input = ../output_size/out1 startln = -4
+Directory '../output_size/' already exists.
+Appended contents of '../output_size/out2_combined' to '../output_size/out1_combined' successfully.
+Accuracy_1: 20.00%
+
+Report:
+              precision    recall  f1-score   support
+
+           1       0.33      1.00      0.50         1
+           2       0.00      0.00      0.00         1
+           4       0.00      0.00      0.00         1
+           7       0.00      0.00      0.00         2
+
+    accuracy                           0.20         5
+   macro avg       0.08      0.25      0.12         5
+weighted avg       0.07      0.20      0.10         5
+
+
+problem 4
+predation
+
+
+
+Elapsed time 45: 200.94 seconds
+tmp = 1. Lion
+2. Cheetah
+3. Leopard
+4. Puma
+5. Wolf
+6. Bear
+7. Lynx
+8. Shark
+9. Eagle
+10. Vulture
+Elapsed time 46: 202.14 seconds
+tmp = lion,cat
+cheetah,cat
+leopard,cat
+puma,cat
+wolf,dog
+bear,mammal
+lynx,cat
+shark,fish
+eagle,bird
+vulture,bird
+Elapsed time 47: 203.26 seconds
+tmp = lion
+cheetah
+leopard
+puma
+lynx
+Elapsed time 48: 205.31 seconds
+tmp = 1. Lion - 1
+2. Cheetah - 2
+3. Leopard - 3
+4. Puma - 4
+5. Lynx - 5
+Elapsed time 49: 206.76 seconds
+tmp = 1,1
+2,1
+3,1
+4,1
+5,2
+6,3
+7,1
+8,4
+9,5
+Elapsed time 50: 207.88 seconds
+Directory '../output_predation/' created successfully.
+new_origin.csv
+Directory '../output_predation/' already exists.
+new_origin.csv
+in cut = outname = ../output_predation/out_cut_2_0 input = ../output_predation/new_origin.csv startln = -3
+in cut = outname = ../output_predation/out_cut_2_1 input = ../output_predation/out1 startln = -4
+Directory '../output_predation/' already exists.
+Appended contents of '../output_predation/out2_combined' to '../output_predation/out1_combined' successfully.
+Accuracy_1: 33.33%
+
+Report:
+              precision    recall  f1-score   support
+
+           1       0.33      1.00      0.50         1
+           2       0.00      0.00      0.00         1
+           4       0.00      0.00      0.00         1
+
+    accuracy                           0.33         3
+   macro avg       0.11      0.33      0.17         3
+weighted avg       0.11      0.33      0.17         3
+
+
+problem 5
+
+migration patterns.
+
+Elapsed time 51: 207.90 seconds
+tmp = 1. Aardvark - No migration pattern
+2. Antelope - Seasonal migration
+3. Bass - Seasonal migration
+4. Bear - Seasonal migration
+5. Boar - Seasonal migration
+6. Buffalo - Seasonal migration
+7. Calf - No migration pattern
+8. Carp - Seasonal migration
+9. Catfish - Seasonal migration
+10. Cavy - No migration pattern
+11. Cheetah - No migration pattern
+12. Chicken - No migration pattern
+13. Chub - Seasonal migration
+14. Clam - No migration pattern
+15. Crab - No migration pattern
+16. Crayfish - No migration pattern
+17. Crow - Seasonal migration
+18. Deer - Seasonal migration
+19. Dogfish - Seasonal migration
+20. Dolphin - Seasonal migration
+21. Dove - Seasonal migration
+22. Duck - Seasonal migration
+23. Elephant - Seasonal migration
+24. Flamingo - Seasonal migration
+25. Flea - No migration pattern
+26. Frog - No migration pattern
+27. Fruitbat - Seasonal migration
+28. Giraffe - Seasonal migration
+29. Gnat - No migration pattern
+30. Goat - Seasonal migration
+31. Gorilla - No migration pattern
+32. Gull - Seasonal migration
+33. Haddock - Seasonal migration
+34. Hamster - No migration pattern
+35. Hare - Seasonal migration
+36. Hawk - Seasonal migration
+37. Herring - Seasonal migration
+38. Honeybee - Seasonal migration
+39. Housefly - Seasonal migration
+40. Kiwi - Seasonal migration
+41. Ladybird - Seasonal migration
+42. Lark - Seasonal migration
+43. Leopard - Seasonal migration
+44. Lion - Seasonal migration
+45. Lobster - Seasonal migration
+46. Lynx - Seasonal migration
+47. Mink - Seasonal migration
+48. Mole - No migration pattern
+49. Mongoose - Seasonal migration
+50. Moth - Seasonal migration
+51. Newt - Seasonal migration
+52. Octopus - No migration pattern
+53. Opossum - Seasonal migration
+54. Oryx - Seasonal migration
+55. Ostrich - Seasonal migration
+56. Parakeet - Seasonal migration
+57. Penguin - Seasonal migration
+58. Pheasant - Seasonal migration
+59. Pike - Seasonal migration
+60. Piranha - No migration pattern
+61. Pitviper - Seasonal migration
+62. Platypus - Seasonal migration
+63. Polecat - Seasonal migration
+64. Pony - Seasonal migration
+65. Porpoise - Seasonal migration
+66. Puma - Seasonal migration
+67. Pussycat - No migration pattern
+68. Raccoon - Seasonal migration
+69. Reindeer - Seasonal migration
+70. Rhea - Seasonal migration
+71. Scorpion - No migration pattern
+72. Seahorse - No migration pattern
+73. Seal - Seasonal migration
+74. Sealion - Seasonal migration
+75. Seasnake - Seasonal migration
+76. Seawasp - Seasonal migration
+77. Skimmer - Seasonal migration
+78. Skua - Seasonal migration
+79. Slowworm - No migration pattern
+80. Slug - No migration pattern
+81. Sole - Seasonal migration
+82. Sparrow - Seasonal migration
+83. Squirrel - Seasonal migration
+84. Starfish - No migration pattern
+85. Stingray - Seasonal migration
+86. Swan - Seasonal migration
+87. Termite - No migration pattern
+88. Toad - No migration pattern
+89. Tortoise - No migration pattern
+90. Tuatara - No migration pattern
+91. Tuna - Seasonal migration
+92. Vampire - No migration pattern
+93. Vole - Seasonal migration
+94. Vulture - Seasonal migration
+95. Wallaby - Seasonal migration
+96. Wasp - Seasonal migration
+97. Wolf - Seasonal migration
+98. Worm - No migration pattern
+99. Wren - Seasonal migration
+Elapsed time 52: 225.48 seconds
+tmp = aardvark,No migration pattern
+antelope,Seasonal migration
+bass,Seasonal migration
+bear,Seasonal migration
+boar,Seasonal migration
+buffalo,Seasonal migration
+calf,No migration pattern
+carp,Seasonal migration
+catfish,Seasonal migration
+cavy,No migration pattern
+cheetah,No migration pattern
+chicken,No migration pattern
+chub,Seasonal migration
+clam,No migration pattern
+crab,No migration pattern
+crayfish,No migration pattern
+crow,Seasonal migration
+deer,Seasonal migration
+dogfish,Seasonal migration
+dolphin,Seasonal migration
+dove,Seasonal migration
+duck,Seasonal migration
+elephant,Seasonal migration
+flamingo,Seasonal migration
+flea,No migration pattern
+frog,No migration pattern
+fruitbat,Seasonal migration
+giraffe,Seasonal migration
+girl,Seasonal migration
+gnat,No migration pattern
+goat,Seasonal migration
+gorilla,No migration pattern
+gull,Seasonal migration
+haddock,Seasonal migration
+hamster,No migration pattern
+hare,Seasonal migration
+hawk,Seasonal migration
+herring,Seasonal migration
+honeybee,Seasonal migration
+housefly,Seasonal migration
+kiwi,Seasonal migration
+ladybird,Seasonal migration
+lark,Seasonal migration
+leopard,Seasonal migration
+lion,Seasonal migration
+lobster,Seasonal migration
+lynx,Seasonal migration
+mink,Seasonal migration
+mole,No migration pattern
+mongoose,Seasonal migration
+moth,Seasonal migration
+newt,Seasonal migration
+octopus,No migration pattern
+opossum,Seasonal migration
+oryx,Seasonal migration
+ostrich,Seasonal migration
+parakeet,Seasonal migration
+penguin,Seasonal migration
+pheasant,Seasonal migration
+pike,Seasonal migration
+piranha,No migration pattern
+pitviper,Seasonal migration
+platypus,Seasonal migration
+polecat,Seasonal migration
+pony,Seasonal migration
+porpoise,Seasonal migration
+puma,Seasonal migration
+pussycat,No migration pattern
+raccoon,Seasonal migration
+reindeer,Seasonal migration
+rhea,Seasonal migration
+scorpion,No migration pattern
+seahorse,No migration pattern
+seal,Seasonal migration
+sealion,Seasonal migration
+seasnake,Seasonal migration
+seawasp,Seasonal migration
+skimmer,Seasonal migration
+skua,Seasonal migration
+slowworm,No migration pattern
+slug,No migration pattern
+sole,Seasonal migration
+sparrow,Seasonal migration
+squirrel,Seasonal migration
+starfish,No migration pattern
+stingray,Seasonal migration
+swan,Seasonal migration
+termite,No migration pattern
+toad,No migration pattern
+tortoise,No migration pattern
+tuatara,No migration pattern
+tuna,Seasonal migration
+vampire,No migration pattern
+vole,Seasonal migration
+vulture,Seasonal migration
+wallaby,Seasonal migration
+wasp,Seasonal migration
+wolf,Seasonal migration
+worm,No migration pattern
+wren,Seasonal migration
+Elapsed time 53: 238.08 seconds
+tmp = No migration pattern
+Seasonal migration
+Seasonal migration
+Seasonal migration
+Seasonal migration
+No migration pattern
+Seasonal migration
+Seasonal migration
+No migration pattern
+No migration pattern
+No migration pattern
+Seasonal migration
+Seasonal migration
+Seasonal migration
+Seasonal migration
+Seasonal migration
+Seasonal migration
+Seasonal migration
+Seasonal migration
+Seasonal migration
+Seasonal migration
+Seasonal migration
+Seasonal migration
+Seasonal migration
+Seasonal migration
+Seasonal migration
+Seasonal migration
+Seasonal migration
+Seasonal migration
+Seasonal migration
+Seasonal migration
+Seasonal migration
+Seasonal migration
+Seasonal migration
+Seasonal migration
+Seasonal migration
+Seasonal migration
+Seasonal migration
+Seasonal migration
+Seasonal migration
+Seasonal migration
+Seasonal migration
+Seasonal migration
+Seasonal migration
+Seasonal migration
+Seasonal migration
+Seasonal migration
+Seasonal migration
+Seasonal migration
+Seasonal migration
+No migration pattern
+No migration pattern
+No migration pattern
+No migration pattern
+No migration pattern
+Elapsed time 54: 242.89 seconds
+tmp = No migration pattern: 10
+Seasonal migration: 46
+Elapsed time 55: 243.81 seconds
+tmp = aardvark,0
+antelope,46
+bass,46
+bear,46
+boar,46
+buffalo,46
+calf,0
+carp,46
+catfish,46
+cavy,0
+cheetah,0
+chicken,0
+chub,46
+clam,0
+crab,0
+crayfish,0
+crow,46
+deer,46
+dogfish,46
+dolphin,46
+dove,46
+duck,46
+elephant,46
+flamingo,46
+flea,0
+frog,0
+fruitbat,46
+giraffe,46
+girl,46
+gnat,0
+goat,46
+gorilla,0
+gull,46
+haddock,46
+hamster,0
+hare,46
+hawk,46
+herring,46
+honeybee,46
+housefly,46
+kiwi,46
+ladybird,46
+lark,46
+leopard,46
+lion,46
+lobster,46
+lynx,46
+mink,46
+mole,0
+mongoose,46
+moth,46
+newt,46
+octopus,0
+opossum,46
+oryx,46
+ostrich,46
+parakeet,46
+penguin,46
+pheasant,46
+pike,46
+piranha,0
+pitviper,46
+platypus,46
+polecat,46
+pony,46
+porpoise,46
+puma,46
+pussycat,0
+raccoon,46
+reindeer,46
+rhea,46
+scorpion,0
+seahorse,0
+seal,46
+sealion,46
+seasnake,46
+seawasp,46
+skimmer,46
+skua,46
+slowworm,0
+slug,0
+sole,46
+sparrow,46
+squirrel,46
+stingray,46
+swan,46
+termite,0
+toad,0
+tortoise,0
+tuatara,0
+tuna,46
+vampire,0
+vole,46
+vulture,46
+wallaby,46
+wasp,46
+wolf,46
+worm,0
+wren,46
+Elapsed time 56: 254.57 seconds
+Directory '../output_migration patterns/' created successfully.
+here
+in cut = outname = ../output_migration patterns/out1 input = ../output_migration patterns/raw_out startln = 1
+new_origin.csv
+Directory '../output_migration patterns/' already exists.
+new_origin.csv
+in cut = outname = ../output_migration patterns/out_cut_2_0 input = ../output_migration patterns/new_origin.csv startln = 27
+in cut = outname = ../output_migration patterns/out_cut_2_1 input = ../output_migration patterns/out1 startln = 26
+Directory '../output_migration patterns/' already exists.
+Appended contents of '../output_migration patterns/out2_combined' to '../output_migration patterns/out1_combined' successfully.
+Accuracy_1: 45.00%
+
+Report:
+              precision    recall  f1-score   support
+
+           1       0.45      1.00      0.62         9
+           2       0.00      0.00      0.00         5
+           3       0.00      0.00      0.00         1
+           4       0.00      0.00      0.00         3
+           5       0.00      0.00      0.00         1
+           7       0.00      0.00      0.00         1
+
+    accuracy                           0.45        20
+   macro avg       0.07      0.17      0.10        20
+weighted avg       0.20      0.45      0.28        20
+
+
+problem 6
+communication
+
+Elapsed time 57: 254.58 seconds
+tmp = 1. Aardvark - Grunt
+2. Antelope - Snort
+3. Bass - Drumming
+4. Bear - Roar
+5. Boar - Grunt
+6. Buffalo - Bellow
+7. Calf - Bleat
+8. Carp - Grunt
+9. Catfish - Grunt
+10. Cavy - Squeak
+11. Cheetah - Chirp
+12. Chicken - Cluck
+13. Chub - Grunt
+14. Clam - Click
+15. Crab - Click
+16. Crayfish - Click
+17. Crow - Caw
+18. Deer - Bellow
+19. Dogfish - Grunt
+20. Dolphin - Click
+21. Dove - Coo
+22. Duck - Quack
+23. Elephant - Trumpet
+24. Flamingo - Honk
+25. Flea - Squeak
+26. Frog - Croak
+27. Fruitbat - Squeak
+28. Giraffe - Bleat
+29. Gnat - Buzz
+30. Goat - Bleat
+31. Gorilla - Grunt
+32. Gull - Squawk
+33. Haddock - Grunt
+34. Hamster - Squeak
+35. Hare - Squeak
+36. Hawk - Screech
+37. Herring - Grunt
+38. Honeybee - Buzz
+39. Housefly - Buzz
+40. Kiwi - Whistle
+41. Ladybird - Squeak
+42. Lark - Sing
+43. Leopard - Growl
+44. Lion - Roar
+45. Lobster - Click
+46. Lynx - Growl
+47. Mink - Chirp
+48. Mole - Squeak
+49. Mongoose - Chirp
+50. Moth - Flutter
+51. Newt - Croak
+52. Octopus - Click
+53. Opossum - Hiss
+54. Oryx - Bellow
+55. Ostrich - Booming
+56. Parakeet - Chirp
+57. Penguin - Honk
+58. Pheasant - Squawk
+59. Pike - Grunt
+60. Piranha - Grunt
+61. Pitviper - Hiss
+62. Platypus - Growl
+63. Polecat - Chirp
+64. Pony - Neigh
+65. Porpoise - Click
+66. Puma - Growl
+67. Pussycat - Meow
+68. Raccoon - Chirp
+69. Reindeer - Bellow
+70. Rhea - Booming
+71. Scorpion - Hiss
+72. Seahorse - Click
+73. Seal - Bark
+74. Sealion - Bark
+75. Seasnake - Hiss
+76. Seawasp - Buzz
+77. Skimmer - Squawk
+78. Skua - Squawk
+79. Slowworm - Hiss
+80. Slug - Squeak
+81. Sole - Grunt
+82. Sparrow - Chirp
+83. Squirrel - Chirp
+84. Starfish - Click
+85. Stingray - Grunt
+86. Swan - Honk
+87. Termite - Click
+88. Toad - Croak
+89. Tortoise - Hiss
+90. Tuatara - Hiss
+91. Tuna - Grunt
+92. Vampire - Hiss
+93. Vole - Squeak
+94. Vulture - Squawk
+95. Wallaby - Chirp
+96. Wasp - Buzz
+97. Wolf - Howl
+98. Worm - Squeak
+99. Wren - Chirp
+Elapsed time 58: 268.19 seconds
+tmp = aardvark,grunt
+antelope,snort
+bass,drumming
+bear,roar
+boar,grunt
+buffalo,bellow
+calf,bleat
+carp,grunt
+catfish,grunt
+cavy,squeak
+cheetah,chirp
+chicken,cluck
+chub,grunt
+clam,click
+crab,click
+crayfish,click
+crow,caw
+deer,bellow
+dogfish,grunt
+dolphin,click
+dove,coo
+duck,quack
+elephant,trumpet
+flamingo,honk
+flea,squeak
+frog,croak
+fruitbat,squeak
+giraffe,bleat
+girl,unknown
+gnat,buzz
+goat,bleat
+gorilla,grunt
+gull,squawk
+haddock,grunt
+hamster,squeak
+hare,squeak
+hawk,screech
+herring,grunt
+honeybee,buzz
+housefly,buzz
+kiwi,whistle
+ladybird,squeak
+lark,sing
+leopard,growl
+lion,roar
+lobster,click
+lynx,growl
+mink,chirp
+mole,squeak
+mongoose,chirp
+moth,flutter
+newt,croak
+octopus,click
+opossum,hiss
+oryx,bellow
+ostrich,booming
+parakeet,chirp
+penguin,honk
+pheasant,squawk
+pike,grunt
+piranha,grunt
+pitviper,hiss
+platypus,growl
+polecat,chirp
+pony,neigh
+porpoise,click
+puma,growl
+pussycat,meow
+raccoon,chirp
+reindeer,bellow
+rhea,booming
+scorpion,hiss
+seahorse,click
+seal,bark
+sealion,bark
+seasnake,hiss
+seawasp,buzz
+skimmer,squawk
+skua,squawk
+slowworm,hiss
+slug,squeak
+sole,grunt
+sparrow,chirp
+squirrel,chirp
+starfish,click
+stingray,grunt
+swan,honk
+termite,click
+toad,croak
+tortoise,hiss
+tuatara,hiss
+tuna,grunt
+vampire,hiss
+vole,squeak
+vulture,squawk
+wallaby,chirp
+wasp,buzz
+wolf,howl
+worm,squeak
+wren,chirp
+Elapsed time 59: 277.52 seconds
+tmp = grunt
+snort
+drumming
+roar
+grunt
+bellow
+bleat
+grunt
+grunt
+squeak
+chirp
+cluck
+grunt
+click
+click
+click
+caw
+bellow
+grunt
+click
+coo
+quack
+trumpet
+honk
+squeak
+croak
+squeak
+bleat
+buzz
+bleat
+grunt
+squawk
+grunt
+squeak
+squeak
+screech
+grunt
+buzz
+buzz
+whistle
+squeak
+sing
+growl
+roar
+click
+growl
+chirp
+squeak
+flutter
+croak
+click
+hiss
+bellow
+booming
+chirp
+honk
+squawk
+grunt
+grunt
+hiss
+growl
+chirp
+neigh
+click
+growl
+meow
+chirp
+bellow
+booming
+hiss
+click
+bark
+bark
+hiss
+buzz
+squawk
+squawk
+hiss
+squeak
+grunt
+chirp
+chirp
+click
+grunt
+honk
+click
+croak
+hiss
+hiss
+grunt
+squeak
+squawk
+chirp
+buzz
+howl
+squeak
+chirp
+Elapsed time 60: 282.63 seconds
+tmp = 1. grunt - 5
+2. snort - 1
+3. drumming - 1
+4. roar - 2
+5. bellow - 3
+6. bleat - 3
+7. squeak - 8
+8. chirp - 9
+9. cluck - 1
+10. click - 9
+11. caw - 1
+12. coo - 1
+13. quack - 1
+14. trumpet - 1
+15. honk - 3
+16. croak - 3
+17. buzz - 4
+18. squawk - 4
+19. sing - 1
+20. growl - 4
+21. whistle - 1
+22. flutter - 1
+23. hiss - 6
+24. neigh - 1
+25. meow - 1
+26. bark - 2
+27. booming - 2
+28. howl - 1
+
+These numerical values can be used as labels for the communication features in a machine learning classification task.
+Elapsed time 61: 286.94 seconds
+tmp = grunt,5
+snort,1
+drumming,1
+roar,2
+bellow,3
+bleat,3
+squeak,8
+chirp,9
+cluck,1
+click,9
+caw,1
+coo,1
+quack,1
+trumpet,1
+honk,3
+croak,3
+buzz,4
+squawk,4
+sing,1
+growl,4
+whistle,1
+flutter,1
+hiss,6
+neigh,1
+meow,1
+bark,2
+booming,2
+howl,1
+Elapsed time 62: 289.85 seconds
+Directory '../output_communication/' created successfully.
+new_origin.csv
+Directory '../output_communication/' already exists.
+new_origin.csv
+in cut = outname = ../output_communication/out_cut_2_0 input = ../output_communication/new_origin.csv startln = 27
+in cut = outname = ../output_communication/out_cut_2_1 input = ../output_communication/out1 startln = 26
+Directory '../output_communication/' already exists.
+Appended contents of '../output_communication/out2_combined' to '../output_communication/out1_combined' successfully.
+Accuracy_1: 16.67%
+
+Report:
+              precision    recall  f1-score   support
+
+           1       0.20      0.50      0.29         2
+           2       0.00      0.00      0.00         1
+           4       0.00      0.00      0.00         2
+           5       0.00      0.00      0.00         0
+           7       0.00      0.00      0.00         1
+
+    accuracy                           0.17         6
+   macro avg       0.04      0.10      0.06         6
+weighted avg       0.07      0.17      0.10         6
+
+Elapsed time 63: 289.86 seconds
+
+
+
+
+
+
+

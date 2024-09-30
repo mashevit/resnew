@@ -1,0 +1,52 @@
+Accuracy: 95.24%
+
+Report:
+              precision    recall  f1-score   support
+
+           1       1.00      1.00      1.00         9
+           2       1.00      1.00      1.00         3
+           3       0.00      0.00      0.00         1
+           4       0.75      1.00      0.86         3
+           5       1.00      1.00      1.00         1
+           6       1.00      1.00      1.00         2
+           7       1.00      1.00      1.00         2
+
+    accuracy                           0.95        21
+   macro avg       0.82      0.86      0.84        21
+weighted avg       0.92      0.95      0.93        21
+
+
+Process finished with exit code 0
+
+
+
+Accuracy_1: 90.48%
+
+path_to_merged_csv4.csv
+
+random_state=3
+
+
+
+path_to_merged_csv5.csv
+
+Accuracy_1: 47.62%
+
+Accuracy: 47.62%
+
+Report:
+              precision    recall  f1-score   support
+
+           1       0.44      0.89      0.59         9
+           2       0.00      0.00      0.00         3
+           3       0.00      0.00      0.00         1
+           4       1.00      0.33      0.50         3
+           5       0.50      1.00      0.67         1
+           6       0.00      0.00      0.00         2
+           7       0.00      0.00      0.00         2
+
+    accuracy                           0.48        21
+   macro avg       0.28      0.32      0.25        21
+weighted avg       0.36      0.48      0.36        21
+
+
